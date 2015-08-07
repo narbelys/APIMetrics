@@ -1,0 +1,4 @@
+0|"Incompleta"
+1|"Finalizada"
+2|"En Espera"
+3|"Anulada"

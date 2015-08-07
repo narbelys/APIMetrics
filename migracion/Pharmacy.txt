@@ -1,0 +1,7 @@
+1|"NA PRX"|"NA PRX"|"j-40088139-0"|"Farmacia de prueba para los administradores PRX"|""|\N|0|1|"www.pcafarma.com"|1
+2|"FASA CCCT"|"FARMACIA ADELBROS C.A."|"J-308095281"|"CCCT, Caracas, Miranda, Venezuela"|"02129590305"|\N|1|0|"www.farmaciasfasa.com"|8084
+3|"FARMACIA PRX"|"FARMACIA PRX"|"J-45236513"|"Caracas, Venezuela"|"000225436"|\N|1|0|"www.prx.com"|15
+4|"FARMAPLUS LAS ROSAS"|"FARMACIA LAS ROSAS C.A"|"J-00087608-6"|"Santa Rosa De Lima, Distrito Metropolitano de Caracas, Venezuela"|"02129913435"|\N|1|1|"www.farmaplus.com.ve"|7
+5|"CEMO GUARENAS REGION 3"|"CEMO GUARENAS REGION 3"|"G-200011343"|"Guarenas, Miranda, Venezuela"|"04241555173"|\N|1|0|"www.miranda.gov.ve"|8259
+6|"CAS SIMON RODRIGUEZ REGION 3"|"CAS SIMON RODRIGUEZ REGION 3"|"G-200011343"|"Guarenas, Miranda, Venezuela"|"04241555173"|\N|1|0|"www.miranda.gov.ve"|8259
+7|"CEMO CUA REGION 2"|"CEMO CUA REGION 2"|"G-200011343"|"Cúa, Miranda, Venezuela"|"04241555173"|\N|1|0|"www.miranda.gov.ve"|8259

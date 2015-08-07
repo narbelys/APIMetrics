@@ -1,0 +1,20 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+HOLA, template de prueba 4
+
+<br />{{vaina.hola}}
+<br />LISTA SubclaseDiagnostico
+{% for elem in sd %}
+	<br />{{elem}}
+{% endfor %}
+<br />LISTA Presentacion
+{% for elem in presentacion %} 
+	<br />{{elem}} - {{elem.barcodes}} - {{elem.nombre}} - [{% for cosa in elem.barcodes %}{{cosa.barcode}},{% endfor %}]
+{% endfor %}
+<br />LISTA colectivo
+<br />
+{% for elem in colectivo %} 
+	<br />{{elem}} - {{elem.cliente}} - {{elem.cliente.descripcion}} - -{{elem.cliente.iniciales}}
+{% endfor %}
+<br />
+CHAO
+

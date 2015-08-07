@@ -1,0 +1,757 @@
+21|"PRUEBA"|"PRUEBA"|"M"|"1993-09-24"|"04127367198"|"02124343434"|"narbelys@gmail.com"|"Colinas de Bello Monte, Miranda, Venezuela"|1
+2123456|"JOSE"|"PEREZ"|"M"|"1994-05-16"|"04123130370"|""|"edwarlynbencomo@gmail.com"|"Caracas, Venezuela"|1
+2147913|"ALIDA CONSUELO"|"VIVAS"|"F"|"1931-07-01"|"04163687152"|""|""|"Caracas, Venezuela"|1
+2163064|"MARIA"|"REINA"|"F"|"1937-10-22"|"0"|"02395149964"|""|"charallave sector pitaya"|1
+2227706|"EGLIMAR"|"DIAZ"|"F"|"1993-11-16"|"04120226448"|""|""|"Cúa, Miranda, Venezuela"|1
+2345678|"JOSE"|"PEREZ"|"M"|"2012-03-20"|"04129999999"|""|""|"Caracas, Venezuela"|1
+2527219|"MARÍA"|"RODRIGUEZ"|"F"|"1935-03-18"|"02126811664"|"04169132752"|"josecvarela@gmail.com"|"Coche, Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+2692110|"CARLOS"|"PIÑERO"|"M"|"1932-02-19"|"04261512695"|""|""|"Guarenas, Miranda, Venezuela"|1
+2828637|"PETRA RAFAELA"|"CAMACHO"|"F"|"1931-08-02"|"04143015241"|""|""|"Cúa, Miranda, Venezuela"|1
+2859514|"JUANA FRANSISCA"|"PERAZA"|"F"|"1933-10-04"|""|"02395115408"|""|"Pinto Salinas, Cúa, Miranda, Venezuela"|1
+2859852|"JUAN BAUTISTA"|"VILORIA "|"M"|"1929-06-24"|"04167298107"|""|""|"Salamanca, Cúa, Miranda, Venezuela"|1
+2895674|"YOLANDA"|"GIMENEZ"|"F"|"1945-02-26"|""|"02394149483"|""|"Cúa, Miranda, Venezuela"|1
+2906147|"MARIA"|"AGUIAR"|"F"|"1932-09-27"|""|"02123633094"|""|""|1
+2949553|"FIDEDIGNA"|"SALINAS"|"F"|"1927-06-07"|""|""|""|"Guarenas, Miranda, Venezuela"|1
+2960379|"FRANCISCO"|"ALGARRA"|"M"|"1933-06-04"|"04141602119"|""|""|"Guarenas, Miranda, Venezuela"|1
+2974975|"VITA"|"DE CELLI"|"F"|"1953-11-16"|"04166278782"|""|"vitacelli@hotmail.com"|"Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+2995043|"RUMALDO"|"ANDRADE"|"M"|"1935-01-08"|"04160130437"|""|""|"san antonio, cua"|1
+2996123|"EFRAIN"|"HENRIQUETA"|"M"|"1936-02-01"|""|"02123613663"|""|"Guarenas, Miranda, Venezuela"|1
+21156385|"JOSE"|"ZURITA"|"M"|"1932-04-19"|"04127188378"|""|""|"Cúa, Miranda, Venezuela"|1
+21197088|"JOSE RAFAEL"|"GARCIA"|"M"|"1946-07-31"|""|"02126191019"|"garciagarciajr@gmail.com"|"Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+21234567|"PEDRO"|"PEREZ"|"M"|"1994-03-16"|"02122222222"|"02122222222"|"gobernacion@hotmail.com"|"Cúa, Miranda, Venezuela"|1
+21291273|"EUGENIA "|"REYES"|"F"|"1936-11-15"|"04243510607"|""|""|"CUA"|1
+21293324|"JUANA"|"BURGUILLO DE MONASTERIO"|"F"|"1941-11-23"|"04241059326"|"02392259336"|""|"Ambulatorio Colonia Mendoza, Ocumare del Tuy, Miranda, Venezuela"|1
+21451778|"MARIA ALICIA"|"VILLAMIZAR"|"F"|"1936-01-22"|""|"02123617040"|""|"Guarenas, Miranda, Venezuela"|1
+21499470|"MARCELINA"|"CEDEÑO"|"F"|"1935-04-26"|"04165346019"|"02128377605"|""|"Guarenas, Miranda, Venezuela"|1
+21510930|"AURA"|"MORALES"|"F"|"1933-05-03"|""|"02129257576"|""|"Guarenas, Miranda, Venezuela"|1
+21722767|"MIREYA"|"MUJICA"|"F"|"1936-04-08"|""|"02123625552"|""|"Guarenas, Miranda, Venezuela"|1
+21732732|"JACINTA"|"ACEVEDO"|"F"|"1940-09-11"|""|"02125155101"|""|"Guarenas, Miranda, Venezuela"|1
+21735224|"IGNACIO"|"VILLALTA"|"M"|"1938-02-01"|""|"02123613726"|""|"Guarenas, Miranda, Venezuela"|1
+21742520|"PEDRO"|"BAEZ"|"M"|"1942-05-19"|"04164257073"|""|""|"Guarenas, Miranda, Venezuela"|1
+21748936|"VICENTE"|"BLANCO"|"M"|"1933-04-05"|"04261127653"|""|""|"Guarenas, Miranda, Venezuela"|1
+21754169|"LISBETH"|"GONZALEZ"|"F"|"1945-02-04"|"04145642158"|""|""|"Guarenas, Miranda, Venezuela"|1
+21754679|"RAFAELA "|"CORRALES"|"F"|"1939-02-02"|""|"02124947799"|""|"Guarenas, Miranda, Venezuela"|1
+21755356|"CESAR AUGUSTO"|"ESQUIVEL PACHECO"|"F"|"1994-07-31"|"04128748137"|""|""|"Cúa, Miranda, Venezuela"|1
+21755903|"TEREZO JESUS"|"ZAMBRANO"|"M"|"1936-10-15"|""|"02393914388"|""|"Cúa, Miranda, Venezuela"|1
+21758043|"JUAN"|"MIÑOZ"|"M"|"1941-06-24"|"04140260209"|""|""|"Guarenas, Miranda, Venezuela"|1
+21828456|"MARIA EDITA"|"AÑEZ "|"M"|"1931-08-30"|"04242437390"|"02393916700"|""|"Paz Castillo, Miranda, Venezuela"|1
+21872498|"PEDRO "|"FUENTES"|"M"|"1936-06-01"|""|"02123637131"|""|"Guarenas, Miranda, Venezuela"|1
+21888112|"OFELIA"|"REQUENA"|"F"|"1938-03-06"|"04167117161"|""|""|"Guarenas, Miranda, Venezuela"|1
+21889741|"ATILIO A "|"PULGAR"|"M"|"1937-09-01"|"04143278996"|""|"monica_ehourey@hotmail.com"|"Caracas, Venezuela"|1
+21899488|"ANGEL"|"RIVERO"|"M"|"1936-10-02"|"04143603040"|""|""|"Cúa, Miranda, Venezuela"|1
+21968445|"MARTHA "|"BROMEGALES"|"M"|"1930-04-25"|""|"02392229774"|""|"San Francisco de Yare, quebrada seca"|1
+21990631|"EMILIO"|"SEGOVIA"|"M"|"1938-12-22"|"04149001471"|""|""|"Guarenas, Miranda, Venezuela"|1
+21996453|"LUIS"|"SOJO"|"M"|"1933-04-27"|"04123684710"|""|""|"Guarenas, Miranda, Venezuela"|1
+22009684|"ROSA"|"FLORES"|"F"|"1937-11-18"|"04268278680"|""|""|"Guarenas, Miranda, Venezuela"|1
+22025031|"NOCOMEDES"|"MONASTERIO JIMENEZ"|"F"|"1939-09-15"|"04169237739"|""|""|"Tácata, Miranda, Venezuela"|1
+22060410|"DIEGO"|"MALDONADO"|"M"|"1945-10-16"|""|""|""|""|1
+22060998|"AURORA"|"LARES"|"F"|"1929-10-22"|"04141291330"|""|""|"Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+22094878|"JESUS"|"FARIÑA"|"M"|"1942-07-30"|""|"02123452238"|""|"Guarenas, Miranda, Venezuela"|1
+22107202|"LUIS"|"CEREZO"|"M"|"1941-05-31"|"04149272874"|""|""|"Ocumare del Tuy, Miranda, Venezuela"|1
+22109681|"HECTOR"|"LOZANO"|"M"|"1942-08-02"|""|"02123625822"|""|"Guarenas, Miranda, Venezuela"|1
+22110256|"DOMINGO"|"CARRAQUEL"|"M"|"1940-07-22"|"04169297399"|""|""|"Cúa, Miranda, Venezuela"|1
+22114433|"JULIO"|"ZAMORA"|"M"|"1943-06-28"|"04164253204"|""|""|""|1
+22121033|"ELIA "|" DIAZ"|"F"|"1937-04-13"|"04129509952"|""|""|""|1
+22130261|"MANUELA"|"DELGADO"|"F"|"1937-01-01"|"04123130370"|"02122569516"|""|"Caracas, Venezuela"|1
+22130735|"PEDRO"|"SILVA"|"M"|"1939-11-24"|"04123896776"|""|""|"Policía de Urdaneta - Urb. Santa Rosa, Cúa, Miranda, Venezuela"|1
+22134839|"DORA"|"FLORES DE NARANJO"|"F"|"1943-01-10"|"04165205848"|""|"doranaranjo@cantv.net"|"Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+22136027|"ZAIDA"|"PEÑA"|"F"|"1942-04-01"|""|"02128990246"|""|"Guarenas, Miranda, Venezuela"|1
+22138361|"CARMEN"|"GONZALEZ"|"F"|"1941-10-10"|""|"02123628412"|""|"Guarenas, Miranda, Venezuela"|1
+22141873|"AGUSTIN "|"VILLEGAS"|"M"|"1943-05-05"|"04242557566"|""|""|"Cúa, Miranda, Venezuela"|1
+22152063|"ELEUTERIA"|"GARCIA"|"F"|"1939-04-16"|"04168370967"|""|""|"Guarenas, Miranda, Venezuela"|1
+22327272|"MARITZA"|"MARTINEZ"|"F"|"1945-07-10"|"04166123293"|""|""|"CUA"|1
+22427235|"LUCY"|"NIEBLES"|"M"|"1956-04-22"|"04143346681"|""|""|"Guarenas, Miranda, Venezuela"|1
+22554795|"MARIA"|"ZAPATA"|"F"|"1960-09-11"|"04140304543"|""|""|"Guarenas, Miranda, Venezuela"|1
+22584499|"FELIPE "|"BETANCOURT SANCHEZ"|"M"|"1994-05-17"|"04149307901"|""|""|"Salamanca, Cúa, Miranda, Venezuela"|1
+22586341|"GUILLERMO"|"CHACOA"|"M"|"1994-09-25"|"04140206190"|""|""|"Cúa, Miranda, Venezuela"|1
+22635194|"ARTURO"|"RONDON"|"M"|"1947-11-02"|"04163050859"|"02123650077"|""|"Guarenas, Miranda, Venezuela"|1
+22664678|"IRIS"|"MARTINEZ"|"F"|"1937-06-09"|"04166093445"|""|""|"Guarenas, Miranda, Venezuela"|1
+22673375|"JOSEFINA"|"SALAZAR"|"F"|"1943-03-31"|""|"02123636175"|""|"Guarenas, Miranda, Venezuela"|1
+22690825|"MIGUEL"|"MADRID"|"F"|"1942-03-07"|""|"02124927885"|""|"Guarenas, Miranda, Venezuela"|1
+22699529|"ROSA"|"PANCHO"|"F"|"1943-10-04"|""|"02123628073"|""|"Guarenas, Miranda, Venezuela"|1
+22737588|"ANA MATILDE"|"GUERRO"|"F"|"1930-07-09"|""|"02392124838"|""|"Cúa, Miranda, Venezuela"|1
+22784482|"RAFAEL"|"MOLINA"|"F"|"1940-11-18"|"04240908726"|""|""|"Guarenas, Miranda, Venezuela"|1
+22812616|"JOSE"|"MORET"|"M"|"1951-09-03"|"04141063965"|""|""|"Cúa, Miranda, Venezuela"|1
+22814202|"MOISES "|"PACHECO"|"M"|"1940-06-21"|""|"02124820954"|""|"Guarenas, Miranda, Venezuela"|1
+22899453|"CARMEN"|"GARCIA"|"F"|"1929-08-28"|"04143896021"|""|"carmengarcia1929@gmail.com"|"Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+22904163|"RIGOBERTA"|"LOPEZ"|"F"|"1945-01-04"|"04268069116"|"02125648003"|""|"Guarenas, Miranda, Venezuela"|1
+22921458|"JOSE"|"ALFONZO"|"M"|"1944-01-14"|"04164034243"|""|""|"Cúa, Miranda, Venezuela"|1
+22930841|"PEDRO "|"FERNANDEZ"|"M"|"1942-01-17"|"04267118031"|""|""|"Guarenas, Miranda, Venezuela"|1
+22933173|"NIDIA"|"LOZANO"|"F"|"1940-12-29"|""|"02123617253"|""|"Guarenas, Miranda, Venezuela"|1
+22934509|"MARCIAL"|"VARGAS"|"M"|"1943-03-03"|"04142058720"|""|""|"Guarenas, Miranda, Venezuela"|1
+22938714|"ALBERTA"|"OCHOA"|"F"|"1944-03-16"|"04162044343"|""|""|"Guarenas, Miranda, Venezuela"|1
+22938716|"ALBERTA"|"OCHOA"|"F"|"1944-03-16"|"04162044342"|""|""|"guarenas"|1
+22941601|"SEBASTIAN"|"ZANBRANO"|"M"|"1948-03-10"|"04140259092"|"02123613639"|""|"Guarenas, Miranda, Venezuela"|1
+22941754|"DOMINGO"|"FLORES"|"F"|"1944-05-12"|"04262121188"|""|""|"Guarenas, Miranda, Venezuela"|1
+22942975|"CARMEN"|"GODOY"|"F"|"1938-05-20"|"04165336280"|"02123632909"|""|"Guarenas, Miranda, Venezuela"|1
+22943491|"LINDA"|"HOENICKA"|"F"|"1946-10-29"|"04164020481"|""|"lindahoenicka@hotmail.com"|"Caracas, Venezuela"|1
+22947570|"VICENTE"|"ARENAS"|"M"|"1944-04-13"|"04141267030"|""|"varenas2004@gmail.com"|"Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+22948426|"MILIA"|"OCHOA PULGAR"|"F"|"1939-02-14"|"04141407255"|""|""|"Caracas, Venezuela"|1
+22953686|"JOSE"|"ACUÑA"|"M"|"1943-12-13"|""|"02128912908"|""|"Guarenas, Miranda, Venezuela"|1
+22972410|"ROSA"|"PIÑERO"|"F"|"1946-08-30"|"04140246534"|"02123650991"|""|"Guarenas, Miranda, Venezuela"|1
+22974915|"TERESA"|"SOSA"|"M"|"1944-05-30"|""|"02392252965"|""|"Cúa, Miranda, Venezuela"|1
+22977535|"CARMEN"|"MARTINEZ"|"F"|"1946-10-10"|""|"02123425387"|""|""|1
+22977968|"FRANCISCA"|"LOVERA"|"F"|"1943-01-29"|""|"02123620167"|""|"Guarenas, Miranda, Venezuela"|1
+22981721|"ISABEL"|"SIFONTES"|"F"|"1936-12-18"|"04125730182"|""|""|"Guarenas, Miranda, Venezuela"|1
+22984554|"ROSARIO"|"SOEZ"|"F"|"1942-09-04"|"04167211065"|""|""|""|1
+22991945|"FREDDY"|"GOMEZ"|"M"|"1946-03-03"|"04141335986"|""|""|"Guarenas, Miranda, Venezuela"|1
+22993166|"ROSALIA"|"DIAZ"|"F"|"1943-03-01"|"04143982540"|""|""|"Guarenas, Miranda, Venezuela"|1
+23011456|"ELVIRA"|"QUIJADA"|"F"|"1946-04-12"|"04263200950"|""|""|"Guarenas, Miranda, Venezuela"|1
+23011601|"JOSE"|"PEÑA"|"M"|"1946-05-02"|"04267043372"|""|""|"Guarenas, Miranda, Venezuela"|1
+23031743|"JOSE DOMINGO"|"MARQUINA MORENO"|"M"|"1943-05-30"|"04269401633"|""|""|"Nueva Cúa, Cúa, Miranda, Venezuela"|1
+23120061|"ZAIDA"|"GONZALEZ"|"F"|"1945-01-15"|"04164935971"|"02123615934"|"zaida@hotmail.com"|""|1
+23145095|"ANA MARITZA"|"GONZALEZ"|"F"|"1941-05-25"|"04242483512"|""|""|"Caracas, Venezuela"|1
+23165462|"ROSA"|"MICHES"|"M"|"1932-09-04"|"04168368553"|""|""|"Guarenas, Miranda, Venezuela"|1
+23165806|"MERCEDES "|"PLAZA"|"F"|"1943-09-11"|"04142499674"|""|""|"Guarenas, Miranda, Venezuela"|1
+23165878|"MERCEDES"|"PINTO"|"F"|"1943-09-11"|"04142499674"|""|""|"Guarenas, Miranda, Venezuela"|1
+23175589|"HAYDEE"|"PEREZ"|"F"|"1941-12-16"|"04143280505"|""|"haydeeperez@gmail.com"|"Caracas, Venezuela"|1
+23179415|"VIOLETA "|"CASTELLANO"|"F"|"1942-05-28"|"04163298111"|""|""|""|1
+23182244|"CARMEN"|"ACEVEDO"|"F"|"1946-11-18"|""|"02125191329"|""|"Guarenas, Miranda, Venezuela"|1
+23196974|"ANA"|"MENDOZA"|"F"|"1936-07-10"|""|"02395149925"|""|"Cúa, Miranda, Venezuela"|1
+23198788|"JOSE "|"BECERRA"|"M"|"1948-05-21"|""|"02392125517"|""|"Cúa, Miranda, Venezuela"|1
+23222411|"CESAR"|"HERRERO"|"M"|"1947-05-05"|"04269041446"|""|""|"Guarenas, Miranda, Venezuela"|1
+23227308|"VICENTE"|"CHAVEZ"|"M"|"1933-07-19"|"04268162734"|""|""|"Guarenas, Miranda, Venezuela"|1
+23229395|"ALEXIS"|"BETANCOURT"|"M"|"1946-06-17"|"04149207397"|""|""|""|1
+23235676|"CESAR"|"PEREZ"|"M"|"1949-06-02"|"04269205222"|""|""|"Cúa, Miranda, Venezuela"|1
+23238387|"MARIA"|"GARCIA"|"F"|"1950-11-15"|""|"02123628389"|""|"Guarenas, Miranda, Venezuela"|1
+23238994|"MARIA"|"CARRASCO"|"F"|"1942-04-04"|"04142003494"|""|""|"Cúa, Miranda, Venezuela"|1
+23240927|"MARIA"|"SANCHEZ"|"F"|"1947-12-08"|""|"02123018407"|""|"Guarenas, Miranda, Venezuela"|1
+23245418|"MICAELA"|"TIAPA"|"F"|"1946-06-08"|""|"02123627951"|""|""|1
+23248732|"CELINA"|"TORRES"|"F"|"1949-04-04"|"04167154723"|""|""|"Guarenas, Miranda, Venezuela"|1
+23250499|"ANTONIA"|"MUJICA"|"F"|"1939-05-10"|""|"02124146264"|""|""|1
+23298874|"EVA"|"SEGOVIA"|"F"|"1945-04-13"|"04165159630"|""|""|"Guarenas, Miranda, Venezuela"|1
+23302102|"ANTONIA"|"SANABRIA"|"M"|"1937-11-07"|""|"02123613663"|""|"Guarenas, Miranda, Venezuela"|1
+23302270|"ISABEL"|"ESPEJO"|"F"|"1943-06-17"|""|""|""|"Guarenas, Miranda, Venezuela"|1
+23336845|"JOSE"|"TOBIA"|"M"|"1948-05-10"|"04241768185"|""|"tobiaster@hotmail.com"|"Caracas, Venezuela"|1
+23359150|"CARMEN"|"CHIRINOS"|"F"|"1946-04-06"|"04142397812"|""|""|""|1
+23366279|"NANCY"|"CONTRERA"|"F"|"1938-08-22"|""|"02123613726"|""|"Guarenas, Miranda, Venezuela"|1
+23384533|"PEDRO "|"DOMINGUEZ"|"M"|"1945-08-22"|"04164014216"|""|""|"Guarenas, Miranda, Venezuela"|1
+23399694|"RORAIMA"|"PEREZ"|"F"|"1947-08-31"|""|"02126332849"|""|"Guarenas, Miranda, Venezuela"|1
+23435401|"LUCILA"|"UZCATEGUI"|"F"|"1947-07-29"|"04164048082"|""|""|"Guarenas, Miranda, Venezuela"|1
+23474011|"PETRA"|"AGUILAR"|"F"|"1925-08-01"|"04241179141"|""|""|"Guarenas, Miranda, Venezuela"|1
+23541858|"JOSE"|"LEAL"|"M"|"1945-11-07"|"04160106536"|""|""|"Guarenas, Miranda, Venezuela"|1
+23550996|"ERNESTO JOSE"|"ILLAS HERRERA"|"M"|"1949-01-20"|"04141782288"|"02392127485"|"leillas01@hotmail.com"|"Cúa, Miranda, Venezuela"|1
+23552412|"CARMEN"|"FRANCO"|"F"|"1947-12-12"|""|"02126394884"|""|"Guarenas, Miranda, Venezuela"|1
+23552949|"ANA ISABEL"|"SALAS"|"F"|"1950-07-18"|"04142257548"|""|""|""|1
+23553484|"LILIAN"|"QUINTERO"|"F"|"1951-05-19"|"04242796475"|""|""|"Guarenas, Miranda, Venezuela"|1
+23553672|"JUANA"|"MARTINEZ"|"F"|"1946-08-21"|"04242704133"|""|""|"Cúa, Miranda, Venezuela"|1
+23589908|"GRISELDA"|"SEQUERA"|"F"|"1962-04-02"|"04143226981"|""|""|"Guarenas, Miranda, Venezuela"|1
+23624749|"MIRIAN"|"ROUSSEO"|"F"|"1944-09-05"|""|"02123625951"|""|""|1
+23632204|"LOPEZ "|"RAMOS"|"M"|"1950-09-09"|""|"02399951749"|""|"Cúa, Miranda, Venezuela"|1
+23633567|"ELBA"|"CASTRO"|"F"|"1957-04-10"|""|"02392311431"|""|"Cúa, Miranda, Venezuela"|1
+23633894|"MARIA MAGDALENA"|"SANOJA MARTINEZ"|"F"|"1952-05-25"|"04169249676"|""|""|"Quebrada de Cúa, Cúa, Miranda, Venezuela"|1
+23661251|"MARIA"|"DA SILVA"|"F"|"1950-07-21"|""|"02125142128"|""|"Guarenas, Miranda, Venezuela"|1
+23714041|"CARLOS"|"RODRIGUEZ"|"M"|"1951-11-30"|"04242605705"|""|""|"Guarenas, Miranda, Venezuela"|1
+23716976|"CLEMENTE"|"MEDINA"|"M"|"1955-08-04"|"04148987454"|""|""|"Guarenas, Miranda, Venezuela"|1
+23724168|"JULIAN"|"GONZALEZ"|"M"|"1951-02-16"|""|""|""|"Cúa, Miranda, Venezuela"|1
+23728642|"ZORAIDA"|"CASTRO"|"F"|"1947-06-01"|"04143154957"|""|""|"Caracas, Venezuela"|1
+23740952|"MARIA"|"LEAL"|"F"|"1946-10-06"|""|"02123636736"|""|"Guarenas, Miranda, Venezuela"|1
+23765440|"MARIA"|"MARQUINA"|"F"|"1950-11-26"|""|"02392125717"|""|"Cúa, Miranda, Venezuela"|1
+23771965|"NILDE"|"PALMAR"|"F"|"1949-06-05"|"04248265910"|""|""|"Guarenas, Miranda, Venezuela"|1
+23808214|"RUTH"|"DE PACHECO"|"F"|"1945-04-19"|""|"02124820954"|""|"Guarenas, Miranda, Venezuela"|1
+23812594|"GUILLERMO"|"ROMERO"|"M"|"1947-07-13"|"04241822292"|""|""|"Guarenas, Miranda, Venezuela"|1
+23830218|"KATIUSKA"|"COBO"|"F"|"1955-01-08"|"04129580339"|""|""|""|1
+23837146|"AURA"|"YANEZ"|"F"|"1950-03-18"|"04164125978"|""|""|""|1
+23837151|"NORIS"|"GARCIA"|"F"|"1952-10-16"|""|"02128309332"|""|""|1
+23837701|"OMAR"|"LINARES"|"M"|"1949-01-06"|"04242724477"|""|""|"Guarenas, Miranda, Venezuela"|1
+23844438|"LOURDES"|"GONCALVEZ"|"F"|"1940-07-26"|""|"02123610216"|""|"Guarenas, Miranda, Venezuela"|1
+23881070|"ENRIQUE"|"PEREZ"|"M"|"1950-05-15"|"04167013090"|""|""|"Guarenas, Miranda, Venezuela"|1
+23882594|"ELIZABETH GERTRUDIS"|" RAMOS GARCIA"|"F"|"1943-07-07"|"04143990870"|""|""|"Cúa, Miranda, Venezuela"|1
+23949416|"MILAGRO"|"BLANCO"|"F"|"1955-09-14"|""|""|""|"Cúa, Miranda, Venezuela"|1
+23972574|"AURISTELA"|"CEBRIAN"|"F"|"1954-08-13"|""|"02123614106"|""|"Guarenas, Miranda, Venezuela"|1
+23974156|"REINA"|"HERNANDEZ"|"F"|"1952-05-29"|"04142464757"|""|""|"Guarenas, Miranda, Venezuela"|1
+23974278|"ARELIS"|"TORRES"|"F"|"1950-12-12"|"04262191019"|""|""|"Guarenas, Miranda, Venezuela"|1
+23981463|"ENRIQUE"|"LARA"|"M"|"1953-02-04"|"04126242269"|""|""|"Guarenas, Miranda, Venezuela"|1
+24009834|"ELIZABETH"|"CARABALLO"|"F"|"1952-04-02"|"04242842266"|""|""|"guarenas"|1
+24032975|"OMAIRA"|"DE TOVAR"|"F"|"1949-07-25"|""|"02123854071"|""|"Guarenas, Miranda, Venezuela"|1
+24043680|"JUAN "|"BARRETO"|"M"|"1950-06-15"|""|"02126525696"|""|"Guarenas, Miranda, Venezuela"|1
+24059767|"CARMEN"|"NAVAS"|"F"|"1951-01-16"|"04269248815"|""|""|"Cúa, Miranda, Venezuela"|1
+24081455|"GABRIEL "|"TORO"|"M"|"1926-04-07"|"04162091162"|""|""|"Guarenas, Miranda, Venezuela"|1
+24088612|"HENRY"|"VIANA LEON"|"M"|"1954-11-18"|"04164239287"|""|"henryviana1811@hotmail.com"|"Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+24233656|"MIGUEL"|"PEÑA"|"M"|"1951-08-06"|"04162120877"|""|""|"Guarenas, Miranda, Venezuela"|1
+24234768|"JOSE"|"BLANCO"|"M"|"1949-03-06"|""|"02123446671"|""|"Guarenas, Miranda, Venezuela"|1
+24246349|"CARMEN"|"PINTO"|"F"|"1951-08-07"|"04166790895"|""|""|"Guarenas, Miranda, Venezuela"|1
+24252494|"MARIA"|"FERNANDEZ"|"F"|"1950-12-24"|""|"02123630758"|""|"Guarenas, Miranda, Venezuela"|1
+24265902|"DULCE"|"GONZALEZ"|"F"|"1947-10-23"|"04167304283"|""|""|"Guarenas, Miranda, Venezuela"|1
+24269517|"GUILLERMO"|"NUÑEZ"|"M"|"1952-01-10"|"04267925820"|""|""|"Guarenas, Miranda, Venezuela"|1
+24273083|"ELMAR"|"TORO"|"F"|"1954-08-30"|"04123594834"|""|""|"Guarenas, Miranda, Venezuela"|1
+24284447|"GLADY"|"PEREZ"|"F"|"1953-06-01"|"04269184492"|""|""|"Colinas de Cúa, Cúa, Miranda, Venezuela"|1
+24285578|"CARMEN"|"GEORGINA"|"F"|"1949-11-23"|"04141506959"|""|""|"Colinas de Cúa, Cúa, Miranda, Venezuela"|1
+24287174|"ANA CRISTINA"|"BELLO"|"F"|"1954-04-24"|"04149276728"|""|""|"Ocumare del Tuy, Miranda, Venezuela"|1
+24288290|"ZORAIDA"|"PAREDES"|"F"|"1955-05-15"|"04166123293"|""|""|"Cúa, Miranda, Venezuela"|1
+24288602|"MARIGEN "|"MIJARES"|"F"|"1957-12-18"|"04162104719"|"02392252404"|""|"Calle El Rodeo, Ocumare del Tuy, Miranda, Venezuela"|1
+24292818|"PASTORA ELENA"|"LARA GARCIAS"|"F"|"1949-05-01"|"04142372810"|""|""|"Mendoza, Miranda, Venezuela"|1
+24295247|"LUISA"|"GUERRA"|"F"|"1950-11-19"|"04268149087"|""|""|"Guarenas, Miranda, Venezuela"|1
+24296842|"BAUDILIA"|"CABELLO"|"F"|"1942-05-20"|"04165242173"|""|""|"Guarenas, Miranda, Venezuela"|1
+24297632|"FERMIN"|"SALAZAR"|"M"|"1953-07-07"|"04265187866"|""|""|"Guarenas, Miranda, Venezuela"|1
+24309475|"JOSE ANTONIO"|"PARRA CASTRO"|"M"|"1951-12-24"|"04143992596"|""|""|"Quebrada de Cúa, Cúa, Miranda, Venezuela"|1
+24321323|"LEIDA"|"MARIÑO"|"F"|"1959-02-23"|"04242834396"|"02123727875"|"marinleida@yahoo.com"|"Carrizal, Venezuela"|1
+24334080|"GLADYS"|"GUERRERO"|"F"|"1950-09-15"|""|"02123650077"|""|"Guarenas, Miranda, Venezuela"|1
+24349036|"CARMEN"|"BLANCO"|"F"|"1952-07-22"|"04143282791"|""|""|"Guarenas, Miranda, Venezuela"|1
+24350352|"ANA"|"MATOS"|"F"|"1951-11-10"|"04242167099"|"02123078435"|""|"Guarenas, Miranda, Venezuela"|1
+24353394|"ANA "|"MOTA"|"F"|"1954-04-17"|"04168137752"|""|""|"Urb. Las Brisas de Cúa, Cúa, Miranda, Venezuela"|1
+24364475|"JOSE"|"PARRA"|"M"|"1951-12-24"|"04143992596"|""|""|"Cúa, Miranda, Venezuela"|1
+24432894|"OSCAR"|"BRICEÑO"|"M"|"1952-01-04"|"04164143256"|""|""|"Guarenas, Miranda, Venezuela"|1
+24438177|"TAMARA"|"ORTEGA"|"F"|"1950-01-30"|"04263132362"|""|""|"Guarenas, Miranda, Venezuela"|1
+24503464|"OMAIRA"|"ARISMENDI"|"F"|"1955-07-27"|"04267048845"|""|""|"Guarenas, Miranda, Venezuela"|1
+24539715|"ARACELIS"|"GUTIERREZ DE BETANCOURT"|"F"|"1954-01-31"|"04141151557"|""|"aracelisbetancourt@icloud.com"|"Caracas, Venezuela"|1
+24559539|"GLADYS BERNALDA"|"VELOZ RODRIGUEZ"|"M"|"1950-08-20"|""|"02396119474"|""|"Charallave, Miranda, Venezuela"|1
+24581063|"LUISA"|"OROPEZA"|"F"|"1953-10-15"|""|"02123612562"|""|""|1
+24661067|"JOSE GREGORIO"|"GONCALVES"|"M"|"1956-11-08"|"4143274058"|""|"Jggoncalves@cantv.net"|"Prados Del Este, Miranda, Venezuela"|1
+24672218|"MATILDE"|"LEZAMA"|"F"|"1950-04-21"|""|"02125193650"|""|"Guarenas, Miranda, Venezuela"|1
+24672603|"ANDREA "|"NUÑEZ"|"M"|"1956-12-30"|"04163064515"|""|""|"Guarenas, Miranda, Venezuela"|1
+24673128|"GABRIEL"|"MARIN"|"M"|"1949-03-24"|"04163032560"|""|""|"Guarenas, Miranda, Venezuela"|1
+24674348|"VALENTINA"|"GOMEZ"|"F"|"1940-05-07"|"04169510020"|""|""|"Guarenas, Miranda, Venezuela"|1
+24674855|"ROSA"|"PADRON"|"F"|"1949-07-10"|""|"02127148431"|""|"Guarenas, Miranda, Venezuela"|1
+24676581|"GRACIELA"|"CASTILLO"|"F"|"1944-06-15"|""|"02123677032"|""|"Guarenas, Miranda, Venezuela"|1
+24771443|"OSCAR "|"PEREZ"|"M"|"1958-05-17"|"04122674925"|""|"oscarpereza@gmail.com"|"Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+24806728|"MARIA"|"FIGUEROA"|"F"|"1949-03-07"|""|"02123631837"|""|"Guarenas, Miranda, Venezuela"|1
+24808340|"MAGALY"|"CASTRO"|"F"|"1951-11-12"|""|"02123653731"|""|"Guarenas, Miranda, Venezuela"|1
+24811521|"MIREYA"|"DELVES"|"F"|"1953-05-11"|""|"02123373291"|""|"Guarenas, Miranda, Venezuela"|1
+24835837|"ADELAIDA "|"ITANARE"|"F"|"1947-12-06"|"04123755362"|""|""|"Guarenas, Miranda, Venezuela"|1
+24852245|"INES MARIA"|"MORALES AULAR"|"F"|"1956-01-19"|"04142168590"|"04167492325"|""|"Nueva Cúa, Cúa, Miranda, Venezuela"|1
+24903013|"RAMON"|"PEÑA"|"F"|"1956-03-25"|"04162083232"|"02123610595"|""|"Guarenas, Miranda, Venezuela"|1
+24948382|"ETERMINA"|"RODRIGUEZ"|"F"|"1957-05-02"|"04269167471"|""|""|"Guarenas, Miranda, Venezuela"|1
+24950007|"ROSA "|"ZABALA"|"F"|"1955-08-12"|"04166422147"|""|""|"Guarenas, Miranda, Venezuela"|1
+25000589|"SILVERIA "|"MORENO"|"F"|"1953-08-23"|"04141276195"|""|""|"Cúa, Miranda, Venezuela"|1
+25007942|"LUIS"|"ABREU"|"M"|"1953-07-11"|"04261884720"|""|""|"Cúa, Miranda, Venezuela"|1
+25008765|"MAURO APOLIMAR"|"MENDEZ CUICAS"|"M"|"1994-01-15"|"04143164734"|"02394146331"|""|"Nueva Cúa, Cúa, Miranda, Venezuela"|1
+25011894|"ROSA"|"DE BERNAL"|"F"|"1951-08-06"|""|"02123627927"|""|"Guarenas, Miranda, Venezuela"|1
+25019659|"MARYENI"|"SILVA"|"F"|"1953-10-16"|""|"02123610390"|""|"Guarenas, Miranda, Venezuela"|1
+25095362|"CRISTINA"|"BERMUDEZ"|"F"|"1957-04-14"|""|"02126255307"|""|"Guarenas, Miranda, Venezuela"|1
+25119769|"CLAUDINE"|"ORTA"|"F"|"1933-06-06"|""|"02123638671"|""|"Guarenas, Miranda, Venezuela"|1
+25122226|"ALEX"|"CARRILLO"|"M"|"1953-07-06"|"04162165274"|""|""|"Guarenas, Miranda, Venezuela"|1
+25138153|"CEFERINA"|"LEDEZMA"|"F"|"1952-08-26"|"04143293216"|""|""|"Guarenas, Miranda, Venezuela"|1
+25138443|"MARIA"|"VILLEGAS"|"F"|"1952-03-12"|"04127299112"|""|""|"Cúa, Miranda, Venezuela"|1
+25140488|"CARLOS"|"PADRON"|"M"|"1956-10-11"|"04142650460"|""|""|"Quebrada de Cúa, Cúa, Miranda, Venezuela"|1
+25146900|"PETRA MERCEDES "|"VALDESPINO"|"F"|"1994-01-18"|"04125852223"|""|""|"Ambulatorio Colonia Mendoza, Ocumare del Tuy, Miranda, Venezuela"|1
+25151224|"TAMAJAIRA"|"REVERON"|"F"|"1962-04-02"|"04241559941"|""|""|"Guarenas, Miranda, Venezuela"|1
+25200061|"ANA"|"ROJAS"|"F"|"1956-01-14"|""|"02123620724"|""|"Guarenas, Miranda, Venezuela"|1
+25224917|"SIMON"|"MAYO"|"M"|"1958-01-05"|"04263157212"|""|""|"Guarenas, Miranda, Venezuela"|1
+25229255|"EDECIA"|"SOLANO"|"F"|"1959-04-08"|"04268197795"|"02126368860"|""|"Guarenas, Miranda, Venezuela"|1
+25305358|"DULCE"|"LEON"|"F"|"1955-11-17"|"04168320653"|""|""|"Guarenas, Miranda, Venezuela"|1
+25331705|"NOHELIA "|"SOTO"|"F"|"1946-06-24"|"04242232551"|""|""|"Charallave, Miranda, Venezuela"|1
+25401227|"NELSON"|"GIL"|"M"|"1955-04-08"|"04142993707"|""|""|"Cúa, Miranda, Venezuela"|1
+25401743|"ESTEBAN"|"RAMOS SOTO"|"M"|"1950-07-08"|"04168121253"|""|""|"Santa Teresa, Miranda, Venezuela"|1
+25408194|"JUANA"|"GUEVARA"|"F"|"1934-05-08"|"04165242907"|""|""|"santa lucia calle el milagro n 11"|1
+25411704|"YAJAIRA"|"ROJAS"|"F"|"1957-09-17"|"04168296876"|"02123615227"|""|"Guarenas, Miranda, Venezuela"|1
+25413595|"AURA "|"CEDEÑO"|"F"|"1949-01-15"|"04165390081"|""|""|"Guarenas, Miranda, Venezuela"|1
+25414401|"MERY"|"RONDON"|"F"|"1955-02-07"|"04149664052"|""|""|"Cúa, Miranda, Venezuela"|1
+25415014|"CESAR"|"RODRIGUEZ"|"F"|"1954-01-17"|"04145316595"|""|""|"Guarenas, Miranda, Venezuela"|1
+25415426|"DALIA"|"ROMERO"|"F"|"1951-12-18"|""|"02128850312"|""|"Guarenas, Miranda, Venezuela"|1
+25420414|"MARIA"|"PEREZ"|"F"|"1935-06-18"|""|""|""|"Guarenas, Miranda, Venezuela"|1
+25421171|"LUIS"|"SILVA"|"M"|"1957-07-11"|"04140445260"|""|""|"Cúa, Miranda, Venezuela"|1
+25428325|"OMAIRA"|"PIÑERO"|"F"|"1957-05-01"|""|"02123959861"|""|""|1
+25431231|"MILAGRO"|"BARRETO"|"F"|"1954-06-24"|""|"02123629237"|""|"Guarenas, Miranda, Venezuela"|1
+25514360|"KARLA"|"PIÑATE"|"F"|"1959-01-14"|"04149025533"|""|""|"Guarenas, Miranda, Venezuela"|1
+25523116|"GLADYS"|"ARANA"|"F"|"1956-09-26"|""|"02123475894"|""|""|1
+25534432|"MORELIA"|"VELAZQUEZ"|"F"|"1956-03-18"|"04143669326"|""|""|"Guarenas, Miranda, Venezuela"|1
+25561946|"ALVARO"|"PINEDA"|"M"|"1953-11-28"|""|"02392121921"|""|"Cúa, Miranda, Venezuela"|1
+25604585|"JUDITH"|"JIMENEZ"|"F"|"1950-11-02"|"04140134821"|""|""|"Guarenas, Miranda, Venezuela"|1
+25606648|"MANUEL"|"HERNANDEZ"|"M"|"1959-12-10"|"04242821690"|"02392464703"|"manherd@hotmail.com"|"Charallave, Miranda, Venezuela"|1
+25618365|"LUZ"|"GONZALEZ"|"F"|"1994-04-20"|""|"02123651316"|""|"Guarenas, Miranda, Venezuela"|1
+25639048|"ELOINA"|"MOLINA"|"F"|"1936-07-05"|""|"02395119337"|""|"poncigue, cua, edo. miranda"|1
+25659354|"JESUS"|"BETANCOURT"|"M"|"1954-06-26"|"04269109903"|""|""|"Guarenas, Miranda, Venezuela"|1
+25701531|"MARBELIS "|"BERMUDEZ"|"F"|"1960-03-01"|"04162152821"|""|""|"Guarenas, Miranda, Venezuela"|1
+25729097|"LUIS "|"MEDINA"|"M"|"1977-08-15"|"04143621546"|""|""|"Guarenas, Miranda, Venezuela"|1
+25892461|"LILIAN"|"CHACOA"|"M"|"1959-06-23"|"04120195233"|""|""|"Cúa, Miranda, Venezuela"|1
+25893502|"MIRIAN"|"YANEZ"|"F"|"1960-08-19"|"04164658596"|""|""|"Guarenas, Miranda, Venezuela"|1
+25907725|"EUTACIO"|"ROJAS"|"M"|"1960-03-29"|"04141011447"|""|""|"Guarenas, Miranda, Venezuela"|1
+25960935|"AITZKEL"|"GARCIA"|"F"|"1960-02-09"|"04242311158"|""|""|"Guarenas, Miranda, Venezuela"|1
+25961407|"MARIANA"|"SALAZAR"|"F"|"1958-04-13"|""|"02125243160"|""|"Guarenas, Miranda, Venezuela"|1
+25968027|"JOSE"|"VARELA"|"M"|"1961-02-09"|"04241555173"|"02126612592"|"josecvarela@gmail.com"|"Avenida Teresa de la Parra, Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+25977972|"MARIA"|"GONCALVES"|"M"|"1959-03-25"|"04129905919"|""|""|"Guarenas, Miranda, Venezuela"|1
+25990388|"JOSE "|"FERNANDEZ"|"M"|"1960-09-02"|"04142414559"|""|""|"Cúa, Miranda, Venezuela"|1
+26001157|"HAIDE"|"CASTRO"|"F"|"1953-09-09"|"04164295219"|""|""|"Guarenas, Miranda, Venezuela"|1
+26001657|"LEONIDAS"|"CASTRO"|"M"|"1955-07-09"|"04164295219"|""|""|"Guarenas, Miranda, Venezuela"|1
+26005898|"YOGEIDY"|"GUTIERREZ"|"F"|"2013-06-11"|"04140211009"|""|""|"Guarenas, Miranda, Venezuela"|1
+26013233|"LUZ"|"MOLINA"|"F"|"1952-06-13"|""|"02390212385"|""|"Cúa, Miranda, Venezuela"|1
+26014777|"FRANCISCO"|"BLANCO"|"M"|"1958-12-17"|"04141185550"|""|""|""|1
+26016408|"LUCIO"|"GARCIA"|"M"|"1947-03-23"|"04141323785"|""|""|"Guarenas, Miranda, Venezuela"|1
+26020735|"ALFREDO"|"HERNANDEZ RICO"|"M"|"1961-02-06"|""|"02123630836"|""|"Guarenas, Miranda, Venezuela"|1
+26025970|"CARLOS "|"DIAZ"|"M"|"1960-09-03"|""|"02123257150"|""|"Guarenas, Miranda, Venezuela"|1
+26032845|"AURA"|"CALDERA"|"F"|"1954-11-27"|"04167210633"|""|""|""|1
+26041192|"ENMA"|"CARIAS"|"F"|"1958-01-13"|""|"02123470520"|""|"Guarenas, Miranda, Venezuela"|1
+26041944|"LUZ"|"DAVILA"|"F"|"1960-05-01"|"04266155002"|""|""|"Guarenas, Miranda, Venezuela"|1
+26056095|"MARGARITA"|"MARTINEZ"|"F"|"1943-10-10"|"04165283466"|""|""|"Ocumare del Tuy, Miranda, Venezuela"|1
+26057998|"MARIA"|"VALLENILLA"|"F"|"1969-09-23"|"04269079678"|""|""|"Guarenas, Miranda, Venezuela"|1
+26066254|"JUANA "|"HERNANDEZ"|"F"|"1947-12-05"|""|"02123634418"|""|"Guarenas, Miranda, Venezuela"|1
+26068489|"GERARDO"|"ORDAZ"|"M"|"1956-05-11"|"0"|"02126068478"|""|"Guarenas, Miranda, Venezuela"|1
+26074084|"MIRIAM"|"PALACIOS"|"F"|"1954-05-27"|""|"02126256531"|""|"Guarenas, Miranda, Venezuela"|1
+26076337|"DILCIA"|"ROJAS"|"F"|"1953-12-03"|""|"02127163368"|""|"Guarenas, Miranda, Venezuela"|1
+26078276|"MARIELA "|"MARTINEZ"|"F"|"1959-03-25"|"04167613993"|""|"lizcabriles@hotmail.com"|"ocumare del tuy urbanizacion lomas de guadalupe "|1
+26080552|"CLARA"|"FIGUERA"|"M"|"1947-12-25"|""|""|""|"Cúa, Miranda, Venezuela"|1
+26106059|"ELPIDIA"|"BANDRES"|"F"|"1958-03-04"|"04168737781"|""|""|"Guarenas, Miranda, Venezuela"|1
+26114450|"CONSUELO"|"UZCATEGUI"|"F"|"1963-07-18"|"04148703758"|""|""|""|1
+26119659|"MARYENI"|"SILVA"|"F"|"1953-10-16"|"04164184766"|""|""|"Guarenas, Miranda, Venezuela"|1
+26123654|"JOSE ANTONIO "|"OVALLES HERRERAS "|"M"|"1962-09-21"|"04241430847"|""|""|"Cúa, Miranda, Venezuela"|1
+26157997|"LOURDES MARIBEL"|"MENDOZA"|"F"|"1963-10-16"|""|"02392467369"|""|"Cúa, Miranda, Venezuela"|1
+26186412|"MAGLENY"|"MEDINA"|"F"|"1994-09-15"|"04261065697"|""|""|"Cúa, Miranda, Venezuela"|1
+26204207|"MARIA"|"NOGUERA"|"F"|"1962-02-17"|""|"02128321651"|""|"Guarenas, Miranda, Venezuela"|1
+26204596|"MARLENE"|"FERNANDEZ"|"F"|"1962-08-01"|"04242557176"|""|""|""|1
+26204747|"FANNY"|"GARCIA"|"F"|"1964-07-12"|"04167171591"|""|""|"Guarenas, Miranda, Venezuela"|1
+26204890|"DILIA"|"HERNANDEZ"|"F"|"1959-08-13"|""|""|""|"Cúa, Miranda, Venezuela"|1
+26214216|"GUILLERMO JOSE"|"CONTRERAS"|"M"|"1966-01-14"|"04142780797"|"02124351592"|"sanchezniu@hotmail.com"|"Guarenas, Miranda, Venezuela"|1
+26232785|"RAFAELA"|"MACIA"|"F"|"1919-12-23"|"04123712077"|""|""|"Cúa, Miranda, Venezuela"|1
+26249613|"JOSE LUIS "|"VERA"|"M"|"1966-06-29"|"04168054223"|""|""|"Guarenas, Miranda, Venezuela"|1
+26261454|"CARLOS"|"MORENO"|"M"|"1945-01-25"|"04141968854"|""|""|"Cúa, Miranda, Venezuela"|1
+26262622|"NIURKA"|"SANCHEZ"|"F"|"1964-05-21"|"04241600436"|"02124351592"|""|"Guarenas, Miranda, Venezuela"|1
+26265242|"GUILLERMO"|"CALZADILLA"|"M"|"1967-04-09"|"04241181356"|""|""|"Cúa, Miranda, Venezuela"|1
+26273746|"LUZ"|"HURTADO"|"F"|"1942-11-02"|""|"02123634030"|""|"Guarenas, Miranda, Venezuela"|1
+26299932|"STIBERLIN"|"PEREZ"|"M"|"2006-07-23"|"04165362472"|""|""|"Guarenas, Miranda, Venezuela"|1
+26310168|"ADEL"|"RAMOS"|"M"|"1967-05-03"|"04165340837"|""|""|"Guarenas, Miranda, Venezuela"|1
+26311447|"ZULAY "|"MEZA"|"F"|"1967-10-06"|"04146078477"|""|""|""|1
+26323145|"JOSE "|"VALLEJO"|"M"|"1961-03-15"|"04241555173"|"02123729287"|"miremedio@gmail.com"|"Los Teques"|1
+26331468|"ROSA"|"MARTINEZ"|"F"|"1966-08-23"|""|"02129100154"|""|"Guarenas, Miranda, Venezuela"|1
+26332087|"AMERICA"|"RODRIGUEZ"|"F"|"1966-10-02"|""|"02123632062"|""|"Guarenas, Miranda, Venezuela"|1
+26350412|"BELKIS"|"SAVEDRA"|"F"|"1955-12-08"|"04169027915"|""|""|"Nueva Cúa, Cúa, Miranda, Venezuela"|1
+26361181|"GILBERTO"|"YANEZ"|"M"|"1956-07-28"|"04141808750"|""|""|"Guarenas, Miranda, Venezuela"|1
+26363158|"JOSE "|"GIL"|"M"|"1960-09-21"|"04267125740"|""|""|"Guarenas, Miranda, Venezuela"|1
+26366930|"FRANKLIN"|"PACHECO"|"M"|"1962-05-08"|"04169144150"|""|""|"Guarenas, Miranda, Venezuela"|1
+26372057|"ALBERTO"|" QUIALOZA"|"M"|"1960-02-26"|"0412725603"|""|""|"Cúa, Miranda, Venezuela"|1
+26374631|"MIRIAN"|"GALLARDO"|"F"|"1956-09-22"|""|"02392258772"|""|"Cúa, Miranda, Venezuela"|1
+26374645|"ZULAY"|"VASQUEZ"|"F"|"1959-04-17"|"04164257725"|""|""|"Guarenas, Miranda, Venezuela"|1
+26388491|"ELVIRA"|"RICCO"|"F"|"1945-03-04"|"04163046395"|""|""|"Guarenas, Miranda, Venezuela"|1
+26391155|"ELBA"|"LARA"|"F"|"1960-08-07"|"04162223030"|""|""|"Guarenas, Miranda, Venezuela"|1
+26393725|"LUIS"|"BELLO"|"M"|"1955-08-07"|"04163181908"|""|""|"Guarenas, Miranda, Venezuela"|1
+26394622|"SOL"|"SUTIL"|"F"|"1958-05-28"|"04141730224"|""|""|""|1
+26400574|"FRANKLIN"|"VERA"|"M"|"1960-08-24"|"04162076101"|""|""|"Guarenas, Miranda, Venezuela"|1
+26401586|"ELIZABETH"|"PALMA"|"F"|"1963-02-28"|"04264094377"|""|""|"Guarenas, Miranda, Venezuela"|1
+26403273|"BEATRIZ"|"DELGADO"|"F"|"1964-04-22"|"04123130370"|""|"edwarlynbencomo@gmail.com"|"Caracas, Venezuela"|1
+26405756|"SANTIAGA"|"BAEZ"|"F"|"1942-11-02"|""|""|""|"Cúa, Miranda, Venezuela"|1
+26407238|"IRENE"|"DIAZ"|"F"|"1957-04-05"|"04142926051"|""|""|"Cúa, Miranda, Venezuela"|1
+26407900|"JOSE"|"ECHEZURIA"|"M"|"1960-11-21"|"04143377505"|""|""|"Cúa, Miranda, Venezuela"|1
+26409472|"MARIA JUANA"|"JUSTINIANO DE ROMERO"|"F"|"1960-08-09"|"04241118397"|"02395310431"|""|"Cúa, Miranda, Venezuela"|1
+26411991|"ANA CELESTINA"|"RAMOS"|"F"|"1994-07-08"|"04268181940"|""|""|"Pinto Salinas, Cúa, Miranda, Venezuela"|1
+26413653|"SULAY"|"ESCALONA"|"F"|"1961-05-12"|"04266174205"|"02392253193"|"sulaymorelis10@hotmail.com"|"Ocumare del Tuy,  corozito final de la calle rioela"|1
+26413961|"FIDEL "|"SANCHEZ"|"M"|"1953-04-27"|"04143339531"|""|""|"Cúa, Miranda, Venezuela"|1
+26415021|"MARIA"|"MONAGAS"|"F"|"1994-04-03"|"04142400750"|"02392464553"|"manherd@hotmail.com"|"Charallave, Miranda, Venezuela"|1
+26416000|"MARIA"|"FARIA"|"F"|"1961-04-05"|"04241028862"|""|""|"Cúa, Miranda, Venezuela"|1
+26416990|"ANDRES"|"CABRILES"|"M"|"1961-12-10"|"04143970793"|""|""|"CUA SAN CASIMIRO"|1
+26418147|"MARIA FLORINDA"|"ARRAEZ DE FUENTE"|"M"|"1959-11-28"|"04168094361"|"02396116163"|""|"Nueva Cúa, Cúa, Miranda, Venezuela"|1
+26418434|"JUANA"|"ZANBRANO"|"M"|"1951-10-27"|"04120262129"|""|""|"Cúa, Miranda, Venezuela"|1
+26420125|"CARMEN"|"ESTRADA"|"F"|"1962-03-09"|""|""|""|"Cúa, Miranda, Venezuela"|1
+26422487|"YOLANDA "|"VILLALBA"|"F"|"1963-12-30"|""|"02392497178"|""|"Cúa, Miranda, Venezuela"|1
+26423893|"AMBROSIA"|"MARTINEZ"|"F"|"1961-12-07"|"04144664396"|""|""|""|1
+26425136|"DAISSY"|"MENESES"|"F"|"1958-05-30"|"04262131671"|""|""|"Cúa, Miranda, Venezuela"|1
+26429245|"ROSA"|"RODRIGUEZ"|"M"|"1961-05-25"|"04142123945"|""|""|"Guarenas, Miranda, Venezuela"|1
+26495941|"ELOISA NATALIA"|"PEREZ URBINA"|"M"|"1964-11-09"|"04141167449"|""|""|"Nueva Cúa, Cúa, Miranda, Venezuela"|1
+26503673|"MARIELA"|"MARTINEZ"|"F"|"1965-11-25"|"04261143499"|""|""|"Guarenas, Miranda, Venezuela"|1
+26507175|"JOSE RAMON"|"REQUENA RAMOS"|"M"|"1965-03-13"|"04241793779"|""|""|"Museo Ezequiel Zamora, Cúa, Miranda, Venezuela"|1
+26520784|"CESAR"|"CAMACHO"|"M"|"1961-04-21"|"0416013836"|""|""|"Cúa, Miranda, Venezuela"|1
+26542369|"MARIA"|"GONZALEZ"|"F"|"1950-04-11"|"02385426369"|"04282534866"|""|"Calle Bolivar, Cúa, Miranda, Venezuela"|1
+26550668|"MARIA"|"RIVAS"|"F"|"1956-05-12"|"04143625986"|""|""|"Guarenas, Miranda, Venezuela"|1
+26644580|"MELITA"|"ZAPATA"|"F"|"1956-02-12"|""|"04264017119"|""|"Cúa, Miranda, Venezuela"|1
+26646269|"NORA"|"ESTEVES"|"F"|"1949-07-29"|"04266087959"|""|""|"Guarenas, Miranda, Venezuela"|1
+26834633|"YOLENDA"|"VILLALOBO"|"F"|"1965-05-12"|"04164198508"|""|""|"Guarenas, Miranda, Venezuela"|1
+26840834|"ESTEBAN "|"PEREZ"|"M"|"1956-06-12"|"04142002984"|""|""|"guarenas "|1
+26853716|"ANDRES"|"MIJARES"|"M"|"1963-06-23"|""|"02397166428"|""|"Cúa, Miranda, Venezuela"|1
+26854660|"MIRIAN"|"GODOY"|"F"|"1965-03-30"|"04242532669"|""|""|"Charallave Norte, Charallave, Miranda, Venezuela"|1
+26855894|"MIRTA"|"PUENTE"|"F"|"1965-08-18"|"04169132752"|"02126612592"|"josecvarela@hotmail.com"|"Av teresa de la parra, Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+26863321|"GERARDO"|"MELO"|"M"|"1962-06-24"|"04168081988"|""|""|"Guarenas, Miranda, Venezuela"|1
+26913869|"LUISA"|"VAZQUEZ"|"F"|"1960-08-25"|"04160435069"|"02123617678"|""|"Guarenas, Miranda, Venezuela"|1
+26927993|"CARMEN"|"MARTINEZ"|"F"|"1952-01-20"|"04269011607"|""|""|"Guarenas, Miranda, Venezuela"|1
+26972301|"GLADYS"|"AGAMEZ"|"F"|"1944-12-23"|"04167055964"|""|""|"Guarenas, Miranda, Venezuela"|1
+26990020|"MARISABEL"|"MIJARES"|"M"|"1966-09-29"|""|"02392252404"|"marisabelmijares67@hotmail.com"|"Calle El Rodeo, Ocumare del Tuy, Miranda, Venezuela"|1
+26991159|"RAUL"|"CASTILLO"|"M"|"1966-07-03"|"04242706756"|""|""|"Salamanca, Cúa, Miranda, Venezuela"|1
+26992055|"NANCY"|"GONZALEZ"|"M"|"1959-06-06"|"04142925905"|""|""|"Cúa, Miranda, Venezuela"|1
+26992581|"MARIA ROSA"|"MARQUEZ DE MARQUEZ"|"F"|"1994-04-01"|"04141107768"|"02392251237"|""|"principal El Calvario, Ocumare del Tuy, Miranda, Venezuela"|1
+26992681|"YACKELIN"|"TORREALBA"|"F"|"1963-07-12"|"04164165121"|""|""|"Guarenas, Miranda, Venezuela"|1
+26993654|"MARIA"|"CORONEL"|"F"|"1965-12-15"|""|"02392463837"|""|"Cúa, Miranda, Venezuela"|1
+26994277|"HILDA"|"BRAVO"|"F"|"1959-01-18"|"04143804367"|""|""|"Cúa, Miranda, Venezuela"|1
+26997721|"MARIA"|"SIERRA"|"F"|"1966-10-21"|"04241281965"|""|""|"Charallave, Miranda, Venezuela"|1
+26998507|"ESPERANZA"|"CONTRERAS"|"F"|"1963-02-26"|"04261050471"|""|""|"Cúa, Miranda, Venezuela"|1
+27152495|"HERMINIA"|"SANCHEZ"|"F"|"1955-09-09"|"04264115995"|""|""|"Guatire, Miranda, Venezuela"|1
+27235620|"SERGIO"|"IRREAZA"|"M"|"1961-10-26"|""|"02127439259"|""|"Guarenas, Miranda, Venezuela"|1
+27300270|"DOUGLAS A"|"MENDOZA PACHECO"|"M"|"1961-07-16"|"04141200166"|""|"douglasmendoza69@gmail.com"|"Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+27518052|"GREGORIA"|"MORILLO"|"F"|"1934-11-03"|""|"02392480146"|""|"Charallave, Miranda, Venezuela"|1
+27625258|"MOISES"|"ORSINI"|"F"|"1969-02-03"|"04141020102"|""|""|"Guarenas, Miranda, Venezuela"|1
+27998521|"ALEJANDRINA"|"GONZALEZ"|"F"|"1943-02-09"|"04169166336"|""|""|""|1
+28073801|"ETELVINA"|"ARELLANO"|"F"|"1958-12-01"|"04143037125"|""|""|"Caracas, Venezuela"|1
+28089944|"NELLY"|"ISTURIZ"|"F"|"1956-01-24"|"04164002506"|""|""|"Guarenas, Miranda, Venezuela"|1
+28152443|"ELVIA"|"AGUIRRE"|"F"|"1994-08-06"|"04163297027"|""|""|"Cúa, Miranda, Venezuela"|1
+28255037|"ALMINDA"|"RODRIGUEZ"|"F"|"1994-07-28"|"04261177305"|""|""|""|1
+28317104|"CARLOS "|"LAFONTE"|"M"|"1959-08-27"|"04168068480"|""|""|"Guarenas, Miranda, Venezuela"|1
+28419318|"MARIA"|"MARTINEZ"|"F"|"1960-09-14"|"04263142557"|""|""|"Guarenas, Miranda, Venezuela"|1
+28429352|"IDELISA"|"CARVAJAL"|"F"|"1951-02-24"|"04164260086"|""|""|"Guarenas, Miranda, Venezuela"|1
+28563385|"PAULA"|"BLANCO"|"F"|"1957-06-30"|"04242920412"|""|""|"Cúa, Miranda, Venezuela"|1
+28606186|"ADELA COROMOTO"|"RODRIGUEZ DE MARQUINA"|"F"|"1967-07-04"|""|"02392122324"|""|"Cúa, Miranda, Venezuela"|1
+28620514|"ELBIA"|"MONTOYA"|"F"|"1961-10-02"|""|"02126240648"|""|"Guarenas, Miranda, Venezuela"|1
+28630169|"ENMA"|"APONTE"|"F"|"1941-12-01"|"04167036323"|""|""|"Guarenas, Miranda, Venezuela"|1
+28745044|"PERPETUA"|"VASQUEZ"|"F"|"1937-10-27"|""|"02125259319"|""|"Guarenas, Miranda, Venezuela"|1
+28745817|"JUDITH"|"GUERRERO"|"F"|"1960-12-10"|"04142143502"|""|""|"Guarenas, Miranda, Venezuela"|1
+28746116|"HILDA"|"REYES"|"F"|"1959-05-13"|"04169108329"|""|""|""|1
+28747706|"ANA"|"RODRIGUEZ"|"M"|"1964-01-30"|""|"02129104345"|""|"Guarenas, Miranda, Venezuela"|1
+28747856|"MARIA"|"LARA"|"F"|"1958-04-09"|"04163089218"|""|""|"Guarenas, Miranda, Venezuela"|1
+28749088|"YAJAIRA"|"MARTINEZ"|"M"|"1962-03-28"|"04164139534"|""|""|"Guarenas, Miranda, Venezuela"|1
+28749774|"NANCY"|"ALVAREZ"|"M"|"1989-12-30"|"04242698401"|""|""|"Guarenas, Miranda, Venezuela"|1
+28750059|"LUIS"|"RIVERO"|"M"|"1964-01-29"|"04162160327"|""|""|"Guarenas, Miranda, Venezuela"|1
+28750531|"CATALINA"|"PEÑA"|"M"|"1970-03-07"|"04169221031"|""|""|"Guarenas, Miranda, Venezuela"|1
+28750757|"ALICIA"|"SEGOVIA"|"M"|"1956-01-15"|""|"02128340433"|""|"Guarenas, Miranda, Venezuela"|1
+28751540|"ERNESTO"|"GONZALEZ"|"M"|"1959-07-12"|""|"02123425878"|""|"Guarenas, Miranda, Venezuela"|1
+28752418|"GLADYS"|"BLANCO"|"F"|"1962-01-09"|""|"02124275594"|""|"Guarenas, Miranda, Venezuela"|1
+28752562|"ALEIDA "|"AQUINO"|"F"|"1959-11-24"|"04269056382"|""|""|"Guarenas, Miranda, Venezuela"|1
+28752774|"RUBEN"|"TINEO"|"M"|"1966-07-06"|"04167267158"|""|""|"Guarenas, Miranda, Venezuela"|1
+28753312|"FLOR "|"ORTIZ"|"F"|"1964-01-03"|"04162159133"|""|""|"Guarenas, Miranda, Venezuela"|1
+28754058|"NINOSKA"|"CARRERA"|"F"|"1994-07-22"|"04241209705"|""|""|"Guarenas, Miranda, Venezuela"|1
+28754211|"FIDELINA"|"GUEVARA"|"F"|"1965-08-15"|"04145985232"|""|""|"Guarenas, Miranda, Venezuela"|1
+28754345|"JOSE"|"CARPIO"|"M"|"1966-12-12"|""|""|""|"Guarenas, Miranda, Venezuela"|1
+28756012|"YRAIDA"|"ORDAZ"|"F"|"1966-01-13"|"04269046898"|""|""|""|1
+28756499|"BENITOS"|"NAVAS"|"M"|"1963-03-21"|"04269080319"|""|""|"Guarenas, Miranda, Venezuela"|1
+28757562|"ALEIDA"|"AQUINO"|"F"|"1960-05-04"|""|"02128854097"|""|"Guarenas, Miranda, Venezuela"|1
+28757940|"FLOR "|"HERNANDEZ"|"F"|"1994-08-14"|""|"02123471868"|""|"Guarenas, Miranda, Venezuela"|1
+28757943|"BERNARDA"|"ISTURIZ"|"M"|"1948-08-20"|"04168179104"|""|""|"Guarenas, Miranda, Venezuela"|1
+28758914|"MARIBEL"|"MARTINEZ"|"F"|"1967-09-06"|"04168225941"|""|""|"Guarenas, Miranda, Venezuela"|1
+28763058|"LIBRADA"|"SILVA"|"M"|"1939-12-20"|"04141633585"|""|""|"Guarenas, Miranda, Venezuela"|1
+28763246|"CARMEN "|"MONASTERIO"|"F"|"1962-05-08"|"04123021625"|""|""|"Guarenas, Miranda, Venezuela"|1
+28764118|"NAHYVI"|"GONZALEZ"|"F"|"1968-10-30"|"04162194864"|""|""|"Guarenas, Miranda, Venezuela"|1
+29025888|"MARIA"|"ARMAS"|"F"|"1945-01-10"|"04141514489"|""|""|"Guarenas, Miranda, Venezuela"|1
+29037365|"LUCIA "|"SOTO"|"F"|"1954-12-12"|"04140191540"|""|""|"Residencias Cuarta Avenida, Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+29064958|"MIRNA"|"HERNANDEZ"|"F"|"1963-01-24"|"04141005171"|""|""|"Guarenas, Miranda, Venezuela"|1
+29071999|"MAURA"|"RODRIGUEZ"|"M"|"1951-11-11"|"04168300527"|""|""|"Guarenas, Miranda, Venezuela"|1
+29137882|"MANUEL ALEXANDER"|"QUIÑONEZ ARIAS"|"M"|"1966-05-07"|"04127040611"|"02394157272"|"maqa13@gmail.com"|"San Miguel, Cúa, Venezuela"|1
+29149608|"BENITO"|"GUTIERREZ"|"M"|"1953-03-21"|"04167099144"|""|""|"Guarenas, Miranda, Venezuela"|1
+29152013|"MARIA"|"TORRES"|"F"|"1957-05-28"|"04264161104"|""|""|"Guarenas, Miranda, Venezuela"|1
+29176244|"ISMENIA"|"RAMIREZ"|"F"|"1964-03-03"|"04242890021"|""|""|"Guarenas, Miranda, Venezuela"|1
+29262934|"RODOLFO"|"CAMACHO"|"M"|"1964-08-05"|"04168460431"|""|""|"Guarenas, Miranda, Venezuela"|1
+29312759|"MARIA "|"VILLASMIL"|"F"|"1956-08-06"|"04269213458"|""|""|"Cúa, Miranda, Venezuela"|1
+29359410|"CESAR GUILLERMO"|"VARGAS LOBO"|"M"|"1971-01-23"|""|"02399954578"|""|"Quebrada de Cúa, Cúa, Miranda, Venezuela"|1
+29456035|"ANGELA"|"ASTUDILLO"|"M"|"1994-08-14"|"04165277976"|""|""|"Guarenas, Miranda, Venezuela"|1
+29486936|"ANTONIETA"|"RIVAS"|"F"|"1966-06-16"|"04165116056"|""|""|"Guarenas, Miranda, Venezuela"|1
+29489066|"LUIS ENRIQUE"|"YANEZ DE ARMAS"|"M"|"1968-05-26"|"04242150523"|""|"luisyanezd@gmail.com"|"Caracas, Venezuela"|1
+29565135|"LUIS"|"OLTIVICA"|"M"|"1964-04-13"|""|"02123634924"|""|"Guarenas, Miranda, Venezuela"|1
+29594501|"ROSA"|"PACHECO"|"F"|"1966-03-27"|"04269084083"|""|""|"Guarenas, Miranda, Venezuela"|1
+29595669|"LUISA"|"RODRIGUEZ"|"F"|"1965-10-08"|"04242042824"|""|"luisa@hotmail.com"|"Guarenas, Miranda, Venezuela"|1
+29937767|"ANDREA"|"ARCIA"|"F"|"1965-02-04"|"04261076840"|""|""|"Guarenas, Miranda, Venezuela"|1
+29964453|"PEDRO"|"SOJO"|"M"|"1994-07-10"|"04167232626"|""|""|"Guarenas, Miranda, Venezuela"|1
+29968926|"MARIA"|"ATANASIO"|"F"|"1969-11-29"|"04261041889"|""|""|"Guarenas, Miranda, Venezuela"|1
+29988612|"MARIA"|"MORENO"|"F"|"1950-05-28"|"04143156245"|""|""|"Guarenas, Miranda, Venezuela"|1
+210090686|"MARIA"|"BAEZ"|"F"|"1967-02-11"|"04141128377"|""|""|"Guarenas, Miranda, Venezuela"|1
+210090779|"WILMER"|"WALTON"|"M"|"1968-10-03"|"04267130303"|"02129106302"|""|"Guarenas, Miranda, Venezuela"|1
+210090799|"ELIBELH"|"MOTA"|"F"|"1968-02-25"|"04242166117"|""|""|"Guarenas, Miranda, Venezuela"|1
+210091830|"JOSE"|"OJEDA"|"M"|"1967-12-04"|"04167243800"|""|""|"guarenas"|1
+210097628|"MONEGUI"|"ENRIQUE"|"M"|"1967-07-15"|""|"02126398882"|""|"Guarenas, Miranda, Venezuela"|1
+210097676|"IZOLINA"|"JASPE"|"F"|"1970-05-20"|"04168029775"|""|""|""|1
+210097788|"ESNEIDA "|"PANTOJA"|"F"|"1969-09-22"|"04120961759"|""|""|"Guarenas, Miranda, Venezuela"|1
+210098728|"CLAUDIA"|"ARAUJO"|"F"|"1966-07-25"|"04167187578"|""|""|"Guarenas, Miranda, Venezuela"|1
+210098997|"MIRIAN "|"BERNAL"|"F"|"1969-01-31"|"04167095389"|""|""|"Guarenas, Miranda, Venezuela"|1
+210099739|"NORMA"|"LUGO"|"F"|"1967-11-23"|"04168081879"|""|""|"Guarenas, Miranda, Venezuela"|1
+210304337|"GIOMAR"|"LOPEZ G"|"F"|"1968-05-30"|"04241457941"|""|"lopez.giomar@gmail.com"|"Caracas, Venezuela"|1
+210380872|"REINALDO"|"PALAZZI"|"M"|"1972-06-22"|"04241555176"|""|""|"Los Teques, San Cristóbal, Táchira, Venezuela"|1
+210435089|"SORAIDA"|"MORALES"|"F"|"1965-03-24"|"04164033049"|""|""|""|1
+210472632|"MARIA "|"AÑANGUREN"|"F"|"1969-09-20"|"04261588239"|""|""|"Guarenas, Miranda, Venezuela"|1
+210498059|"LIBIA"|"ZARRAMERA"|"F"|"1968-06-24"|"04268091964"|""|""|"Ezequiel Zamora, Cúa, Miranda, Venezuela"|1
+210504522|"NESTOR RAMON"|"PULIDO VILLAREAL"|"M"|"1968-02-27"|"04167294952"|""|""|"Avenida Perimetral, Cúa, Miranda, Venezuela"|1
+210513443|"JOSE"|"GONZALEZ"|"M"|"1966-12-25"|"04262055997"|""|""|"San Francisco de Yare, Miranda, Venezuela"|1
+210542002|"JAZMIN "|"REQUENA"|"F"|"1970-08-29"|"04143656245"|""|""|"Guarenas, Miranda, Venezuela"|1
+210548381|"JESUS"|"CRISTANCHO"|"M"|"1957-07-12"|""|""|""|"Cúa, Miranda, Venezuela"|1
+210628905|"ISABEL"|"CASTILLO"|"F"|"1994-08-13"|"04241179141"|""|""|"Guarenas, Miranda, Venezuela"|1
+210690969|"GLORIA"|"MARTINEZ"|"F"|"1967-10-05"|"04241705278"|""|""|"Guarenas, Miranda, Venezuela"|1
+210691239|"MERCEDES"|"RONDON"|"F"|"1969-09-24"|"04262187597"|""|""|""|1
+210691303|"LUISA"|"BLANCO"|"F"|"1968-08-25"|"04123036002"|""|""|"Guarenas, Miranda, Venezuela"|1
+210693611|"MIRIAM"|"MARTINEZ"|"F"|"1960-01-01"|"04141543779"|""|""|"Guarenas, Miranda, Venezuela"|1
+210695553|"YAIRE"|"MARTINEZ"|"M"|"1971-05-31"|"04142019060"|""|""|"Guarenas, Miranda, Venezuela"|1
+210697194|"CARMEN"|"RAMIREZ"|"F"|"1971-10-08"|""|"02123415986"|""|"Guarenas, Miranda, Venezuela"|1
+210697235|"WIZMAR"|"TORRES"|"M"|"1977-03-01"|"04268904343"|""|""|"Guarenas, Miranda, Venezuela"|1
+210699514|"MARISELA"|"MACHADO"|"F"|"1972-03-18"|"04241486520"|""|""|"Guarenas, Miranda, Venezuela"|1
+210699833|"ELIS"|"CAMPO"|"F"|"1967-02-28"|"04264146663"|""|""|"Guarenas, Miranda, Venezuela"|1
+210831740|"MIGUEL"|"SANZ"|"M"|"1974-05-06"|"04123863412"|""|""|""|1
+210834225|"DELIA"|"BARRETO"|"F"|"1930-08-30"|"04143612215"|""|""|"Guarenas, Miranda, Venezuela"|1
+210870394|"GABRIELA"|"HERNANDEZ"|"F"|"1976-09-30"|""|"02123470298"|""|"Guarenas, Miranda, Venezuela"|1
+210889319|"JACQUELINE "|"OREPEZA BLANCO"|"F"|"1962-02-20"|"04269146908"|"02395117661"|""|"Santa Teresa del Tuy, Miranda, Venezuela"|1
+210895612|"LINDA CAROLINA"|"HERNANDEZ RONDON"|"F"|"1972-03-26"|"04128225984"|""|""|"San Antonio de Cúa, Urdaneta, Miranda, Venezuela"|1
+210968926|"GRACIELA "|"ALVARADO"|"F"|"1969-11-29"|"04261041889"|""|""|"Guarenas, Miranda, Venezuela"|1
+211010300|"LEOMAR"|"FRANCO"|"F"|"1968-12-18"|"04125813617"|""|""|"Guarenas, Miranda, Venezuela"|1
+211029183|"RUDY"|"LOZANO"|"F"|"1959-09-30"|"04241745089"|""|""|""|1
+211103552|"MANUEL"|"TORRES"|"M"|"1965-01-15"|"04242492138"|""|""|"Guarenas, Miranda, Venezuela"|1
+211109951|"BELKIS "|"RODRIGUEZ"|"F"|"1974-04-18"|"04247205328"|""|""|""|1
+211157977|"MARLENE"|"ESCOBAR"|"M"|"1942-01-14"|""|"02399208616"|""|"Cúa, Miranda, Venezuela"|1
+211203782|"DAYANA"|"PEREZ"|"F"|"1973-11-01"|"04141304801"|""|""|"Guarenas, Miranda, Venezuela"|1
+211302298|"DIGNA"|"ZAMBRANO"|"F"|"1970-05-22"|"04169623750"|""|""|"Guarenas, Miranda, Venezuela"|1
+211305511|"CORALI "|"SALUZZO"|"F"|"1971-08-20"|"04169363823"|""|"corali.saluzzo@gmail.com"|"Caracas, Distrito Metropolitano de Caracas, Venezuela"|1
+211460446|"OLIVA "|"CORREDO"|"F"|"1970-07-23"|"04242651449"|""|"oliva_1460@hotmail.com"|"Calle Zamora, Cúa, Miranda, Venezuela"|1
+211480915|"CARLOS"|"BLANCHAEL"|"M"|"1970-08-16"|"04120160669"|""|""|"Guarenas, Miranda, Venezuela"|1
+211481105|"CIPRIANO"|"PARRA"|"M"|"1950-02-02"|"04266081290"|""|""|"Guarenas, Miranda, Venezuela"|1
+211484710|"PEDRO"|"BOLIVAR"|"M"|"1972-09-09"|"04162091162"|""|""|"Guarenas, Miranda, Venezuela"|1
+211484756|"FABIANA"|"PALMAR"|"F"|"2013-11-12"|"04164222144"|""|""|"Guarenas, Miranda, Venezuela"|1
+211487478|"NOHEMI "|"BARRIOS"|"F"|"1974-02-09"|"04164242346"|""|""|""|1
+211489327|"MARY "|"HERNANDEZ"|"F"|"1968-10-27"|"04165380541"|""|""|"Guarenas, Miranda, Venezuela"|1
+211490114|"CHELA"|"ORTIZ"|"F"|"1974-11-24"|"04143984441"|""|""|"Cúa, Miranda, Venezuela"|1
+211556458|"GLADY"|"HERNANDEZ PEÑA"|"M"|"1994-07-04"|""|"02392124804"|""|"Calle Pueblo Nuevo, Cúa, Miranda, Venezuela"|1
+211568688|"RUTH "|"GAMARRA"|"F"|"1949-09-06"|"04149100166"|""|""|"Guarenas, Miranda, Venezuela"|1
+211707884|"REYES RAMON"|"BRICEÑO GARCIAS"|"M"|"1967-01-06"|"04262790533"|""|""|"Cúa, Miranda, Venezuela"|1
+211735224|"IGNACIO"|"VILLALTA"|"M"|"1938-02-01"|""|"02123613726"|""|"Guarenas, Miranda, Venezuela"|1
+211836254|"CARMEN"|"RAMOS"|"F"|"1973-07-15"|"04169345896"|""|""|"San Casimiro, Aragua, Venezuela"|1
+211917018|"MARIELA"|"RODRIGUEZ"|"F"|"1974-11-07"|"04128098734"|""|""|"Cúa, Miranda, Venezuela"|1
+211931999|"YUDITH "|"ARIAS ZAMBRAN0"|"F"|"1935-04-02"|"04242191631"|"02395149704"|""|"cua ciudad hermosa terraza 43"|1
+212062895|"ELY CAROLINA"|"MENDOZA PEREZ"|"F"|"1993-07-12"|"04164040224"|""|""|"Cúa, Miranda, Venezuela"|1
+212064156|"TAYLI"|"GOMEZ"|"F"|"1970-08-05"|"04269060955"|""|""|""|1
+212064777|"ROSA"|"ISEMA"|"F"|"1975-07-06"|""|"02123628073"|""|"Guarenas, Miranda, Venezuela"|1
+212086926|"REINALDO"|"PACHECO"|"M"|"1968-09-01"|"04143991289"|""|""|""|1
+212294446|"DAYANA "|"HERNANDEZ"|"F"|"1975-04-10"|"04169054747"|""|""|"Guarenas, Miranda, Venezuela"|1
+212294623|"NAIROBIS"|"NORIEGA"|"F"|"1974-10-30"|"04167265475"|"02123623032"|"nairo@hotmail.com"|""|1
+212294946|"DAYANA "|"HERNANDEZ"|"F"|"1975-04-07"|"04169054797"|""|""|"Guarenas, Miranda, Venezuela"|1
+212296071|"GLICENDA"|"BELLO"|"F"|"1974-10-04"|"04141331631"|""|""|"Guarenas, Miranda, Venezuela"|1
+212298373|"DILIA"|"CRUZ"|"F"|"1975-10-04"|"04165194287"|""|""|"Guarenas, Miranda, Venezuela"|1
+212375922|"YESSIBEL"|"BELEN"|"F"|"1974-04-27"|"04166300032"|"02122147868"|""|"Guarenas, Miranda, Venezuela"|1
+212390590|"CARMEN"|"GARCIA"|"M"|"1957-11-18"|"04161479031"|""|""|"Santa Lucia - Charallave - Cua, Santa Lucia del Tuy, Miranda, Venezuela"|1
+212400030|"LISBETH YANEYSI"|"MARTINEZ"|"F"|"1971-01-14"|"04242761932"|""|""|"Potro Cercado, Cúa, Venezuela"|1
+212454613|"UBALDO"|"MARIN"|"M"|"1948-03-08"|"04149112213"|""|""|"Guarenas, Miranda, Venezuela"|1
+212454813|"UBALDO"|"MARIN"|"M"|"1946-03-08"|"04149152213"|""|""|""|1
+212456789|"PEDRO"|"MARTINEZ"|"M"|"1994-06-01"|"04123130370"|""|""|"Caracas, Venezuela"|1
+212507972|"CRISBEL"|"TORTOZA"|"F"|"1975-07-26"|""|""|""|"Guarenas, Miranda, Venezuela"|1
+212564784|"PEREZ"|"LUIS"|"M"|"1994-04-26"|"02122125489"|"02124256987"|"manherds@hotmail.com"|"Caracas, Venezuela"|1
+212684130|"ARLENN"|"DELGADO"|"M"|"1976-08-19"|""|"02123421745"|""|"Guarenas, Miranda, Venezuela"|1
+212688442|"DEIDANIA"|"GUERRA"|"F"|"1956-12-24"|"04267061958"|""|""|"Cúa, Miranda, Venezuela"|1
+212826688|"YAMILET"|"SUAREZ"|"F"|"1977-06-04"|"04264122621"|""|""|"Guarenas, Miranda, Venezuela"|1
+212827187|"YORGELIS"|"GUTIERREZ"|"F"|"1998-12-11"|"04241520795"|""|""|"Guarenas, Miranda, Venezuela"|1
+212829726|"ALEXANDRA"|"FLORES"|"F"|"1976-05-22"|""|"02123825221"|""|"Guarenas, Miranda, Venezuela"|1
+212830193|"MARTHA "|"ORIGUEN"|"F"|"1972-12-20"|"04142766800"|""|""|"Guarenas, Miranda, Venezuela"|1
+212911272|"ELENA"|"ABUDINEN"|"F"|"1947-07-16"|"04141018328"|""|""|""|1
+212916588|"RUTH ELENA "|"VARILLAS"|"F"|"1957-09-18"|"04242039843"|""|""|"Pinto Salinas, Cúa, Miranda, Venezuela"|1
+212957379|"ANA"|"ABELIO"|"F"|"1929-09-05"|"04147115298"|""|""|"Guarenas, Miranda, Venezuela"|1
+212957627|"ANGELA "|"GUARENA"|"F"|"1976-09-24"|"04142365488"|""|""|"Charallave, Miranda, Venezuela"|1
+213109999|"CRISOL"|"TORRES"|"M"|"1977-12-05"|"04268106595"|""|""|"Guarenas, Miranda, Venezuela"|1
+213110515|"MARILYN"|"CARTAYA"|"F"|"1976-11-13"|"04165358929"|""|""|""|1
+213174149|"MARISELA"|"EIZAGA"|"F"|"1971-12-02"|"04269936111"|""|""|"Guarenas, Miranda, Venezuela"|1
+213218632|"GABRIEL"|"LUNA"|"M"|"2009-07-12"|"04122162324"|""|""|"SANTA ROSA, CUA."|1
+213246337|"ALEXIS"|"VILLEGAS"|"M"|"1976-01-23"|""|"02392122304"|""|"Cúa, Miranda, Venezuela"|1
+213320500|"LUZBELKIS"|"ROJAS"|"F"|"1973-10-21"|"04242135241"|""|""|"Guarenas, Miranda, Venezuela"|1
+213321091|"FRANKY"|"GARCIA"|"M"|"1978-11-24"|"04149318703"|""|""|"Guarenas, Miranda, Venezuela"|1
+213321184|"ELIZABETH"|"BERROTERAN"|"F"|"1973-02-20"|"04241003526"|""|""|"Guarenas, Miranda, Venezuela"|1
+213321687|"YUDELIS"|"BLANCO"|"F"|"1978-09-12"|"04242020811"|""|""|"Guarenas, Miranda, Venezuela"|1
+213497456|"YAMILETH"|"PAEZ"|"F"|"1970-10-02"|"04163116879"|""|""|"Guarenas, Miranda, Venezuela"|1
+213499220|"ARLENIS"|"VELASQUEZ"|"F"|"1974-03-15"|""|"04264160216"|""|"Cúa, Miranda, Venezuela"|1
+213542202|"FRANCIS JOSEFINA"|"YBIRMA DE NUÑEZ"|"F"|"1979-01-29"|"04143223922"|""|""|"San Francisco de Yare, Miranda, Venezuela"|1
+213567653|"CARLOS"|"PONCE"|"M"|"1973-09-24"|"04261197696"|""|""|"Guarenas, Miranda, Venezuela"|1
+213568219|"BELKIS"|"ZAMBRANO"|"F"|"1979-05-26"|"04262153357"|""|""|"Guarenas, Miranda, Venezuela"|1
+213715766|"CAROL DEL VALLE"|"TORO CASTRO"|"F"|"1977-03-11"|"04242425809"|""|""|"Centro Médico Paso Real, Charallave, Miranda, Venezuela"|1
+213750937|"YAZMIN"|"BRAVO"|"F"|"1978-08-15"|"04129964769"|""|"yazmin@hotmail.com"|"Guarenas, Miranda, Venezuela"|1
+213845145|"MARTHA"|"LANDER"|"F"|"1979-05-15"|"04162149009"|""|""|"Guarenas, Miranda, Venezuela"|1
+213871708|"BETSY"|"PACHECO"|"F"|"1977-03-05"|"04140250719"|""|"betsy@hotmail.com"|"Guarenas, Miranda, Venezuela"|1
+213886895|"ORLANDO"|"VASQUEZ"|"M"|"1951-10-05"|"04269219311"|""|""|"Cúa, Miranda, Venezuela"|1
+213904777|"GLADYS"|"GUEVARA"|"F"|"1978-03-24"|"04167292229"|""|""|"La mata, Charallave, Miranda, Venezuela"|1
+213979012|"EMPERATIZ"|"GUERRERO"|"F"|"1976-02-24"|""|"02123621836"|""|"Guarenas, Miranda, Venezuela"|1
+213979906|"ELENA"|"GONZALEZ"|"F"|"1977-06-18"|"04169002216"|""|""|""|1
+214001945|"NAYIBE"|"PEREZ"|"F"|"1975-03-26"|"04167165744"|""|""|"Cúa, Miranda, Venezuela"|1
+214097989|"DELVIS"|"REYES"|"M"|"1979-10-27"|"04166226442"|""|""|"Guarenas, Miranda, Venezuela"|1
+214143763|"ANDRES"|"AÑEZ"|"M"|"1983-02-25"|"04141809851"|"02129590305"|"ANDRESAB@GMAIL.COM"|"CCCT, Caracas, Miranda, Venezuela"|1
+214154506|"LUINA "|"JARAMILLO"|"F"|"1979-09-20"|"04163297028"|""|"aniulshadai@hotmail.com"|"Mendoza, Ocumare del Tuy, Venezuela"|1
+214177140|"IRIS"|"ESCOBAR"|"F"|"1975-08-09"|"04169141976"|""|""|"Guarenas, Miranda, Venezuela"|1
+214287174|"ANA"|"BELLO"|"F"|"1994-09-27"|"04149276728"|""|""|"Ocumare del Tuy, Miranda, Venezuela"|1
+214327183|"NILDA MERCEDES"|"BELLO CASTILLO"|"F"|"1979-09-20"|"04141805082"|""|"yoynil20@gmail.com"|"Charallave, Miranda, Venezuela"|1
+214330778|"CAROLINA"|"TORRES"|"F"|"1981-04-07"|"04169243266"|""|""|"Guarenas, Miranda, Venezuela"|1
+214331185|"ANAIS"|"VILLEGAS"|"F"|"1980-02-03"|"04262144222"|""|""|"Guarenas, Miranda, Venezuela"|1
+214331198|"YAELMI"|"VILLEGAS"|"F"|"1980-02-03"|"04263056091"|""|""|""|1
+214444313|"GEDERLYS"|"RANGEL"|"M"|"1980-01-28"|"04142750334"|""|""|""|1
+214444772|"IRMA"|"SERRANO"|"F"|"1974-10-13"|"04120165159"|"02123637319"|""|"Guarenas, Miranda, Venezuela"|1
+214455416|"YONEIDA"|"LUGO"|"F"|"1979-10-01"|"04241252814"|""|""|"sector tucuyito ocumare"|1
+214494098|"ENDYS"|"JEBAL"|"F"|"1980-04-22"|"04262215387"|""|""|""|1
+214494881|"MARINELLY"|"RIVAS"|"F"|"1978-11-18"|"04242054525"|""|""|"Guarero, Zulia, Venezuela"|1
+214494898|"ORALIS"|"RODRIGUEZ"|"F"|"1975-04-23"|"04269084452"|""|""|"Guarenas, Miranda, Venezuela"|1
+214523309|"MILEIDI"|"SOTO"|"M"|"1977-05-15"|"04162514595"|""|""|"Guarenas, Miranda, Venezuela"|1
+214565326|"SORELIS"|"ESPINOZA"|"F"|"2003-08-17"|"04166369856"|""|""|"Guarenas, Miranda, Venezuela"|1
+214565895|"MARIA GABRIELA"|"PIÑERO"|"F"|"2014-04-30"|"04168014859"|""|""|"Guarenas, Miranda, Venezuela"|1
+214598632|"ALEXANDER"|"CAMPOS"|"M"|"2013-05-16"|"04261206144"|""|""|"Guarenas, Miranda, Venezuela"|1
+214720732|"DALIA"|"YANEZ"|"F"|"1980-03-31"|"04120262129"|""|""|"Cúa, Miranda, Venezuela"|1
+214788282|"MERCEDES"|"MACIAS"|"F"|"1956-04-08"|""|"02128872997"|""|"Guarenas, Miranda, Venezuela"|1
+214869315|"CARMELINA"|"HERNANDEZ"|"F"|"1977-11-22"|"04123191918"|""|""|"Guarenas, Miranda, Venezuela"|1
+215040079|"JASSY"|"VEGAS"|"F"|"1980-10-07"|"04266058632"|""|""|"Guarenas, Miranda, Venezuela"|1
+215048584|"JADILBETH"|"LIRA"|"F"|"1980-01-28"|"04262124656"|""|""|"Guarenas, Miranda, Venezuela"|1
+215091644|"NURI"|"MORENO"|"F"|"1981-10-30"|"04141702006"|""|""|"ciudad zamora, cua"|1
+215145263|"YONAIKER"|"ALCALA"|"M"|"2009-07-22"|"04161914526"|""|""|"Guarenas, Miranda, Venezuela"|1
+215149731|"HARLET DE LOS ANGELES"|"SOTO DE SALAZAR"|"F"|"1981-09-15"|"04168345686"|"02398345686"|""|"Centro Medico Paso Real, Charallave, Miranda, Venezuela"|1
+215151041|"ELSY"|"GUEVARA"|"F"|"1982-07-30"|""|"02123652307"|""|"Guarenas, Miranda, Venezuela"|1
+215328816|"ALEJANDRO"|"LOPEZ"|"M"|"1954-08-11"|"04167017561"|""|""|"Guarenas, Miranda, Venezuela"|1
+215373171|"BERNARDA"|"GALVIZ"|"F"|"1946-05-20"|""|"02125246518"|""|"Guarenas, Miranda, Venezuela"|1
+215374666|"JOSMAR"|"FERNANDEZ"|"M"|"1982-05-25"|"04269144207"|""|""|"Guarenas, Miranda, Venezuela"|1
+215393737|"MARELVIS"|"MARTINEZ"|"M"|"1980-10-09"|"04242616043"|""|""|"Guarenas, Miranda, Venezuela"|1
+215456789|"PEDRO"|"PEREZ"|"M"|"1994-06-06"|"04123130370"|""|""|""|1
+215507058|"JOHANA "|"GUERRA"|"F"|"1979-06-16"|"04261111809"|""|""|""|1
+215578533|"MAIGUA"|"ARANGUREN"|"F"|"1977-10-20"|""|"02346622576"|""|"Guarenas, Miranda, Venezuela"|1
+215696530|"LEYDI "|"BUENO"|"F"|"1982-10-10"|"04242327109"|""|""|"Guatire, Miranda, Venezuela"|1
+215697525|"MILAGROS"|"CASTRO"|"F"|"1982-06-26"|"04161376266"|""|""|"Guarenas, Miranda, Venezuela"|1
+215870408|"ANA"|"CAMPOS"|"M"|"1986-05-22"|"04143061542"|""|""|"Guarenas, Miranda, Venezuela"|1
+215976085|"ALFREDO "|"VAAMONDE"|"M"|"1982-08-10"|"4140337522"|"2129917163"|"alfredo.vaamonde@prxcontrolsolutions.com"|"Chuao, Miranda, Venezuela"|1
+216095750|"MARIA"|"MILAN"|"F"|"1983-01-01"|"04168099545"|""|""|""|1
+216115229|"MARLO MARTIN"|"DELGADILLO PINTO"|"M"|"1972-11-03"|"04164125495"|"02392121656"|"clecleoclixio@hotmail.com"|"Pinto Salinas, Cúa, Miranda, Venezuela"|1
+216284156|"DANI"|"MEZA"|"M"|"2008-02-25"|"04163025975"|""|""|"Guarenas, Miranda, Venezuela"|1
+216284159|"ALEXIS"|"ARMAS"|"M"|"2011-06-05"|"04162081639"|""|""|"Guarenas, Miranda, Venezuela"|1
+216284164|"KELLY"|"CRESPO"|"F"|"1982-02-21"|"04169163693"|""|""|"Guarenas, Miranda, Venezuela"|1
+216287119|"MARIA "|"COSME"|"F"|"1950-06-06"|"04242633323"|""|""|"Guarenas, Miranda, Venezuela"|1
+216298542|"MOISES "|"CUMANA"|"M"|"2007-12-18"|"04241390159"|""|""|"Guarenas, Miranda, Venezuela"|1
+216450512|"YHEIZZI"|"PINTO"|"F"|"1983-02-20"|"04129598729"|""|""|"Guarenas, Miranda, Venezuela"|1
+216496031|"FREDY"|"MARTINEZ"|"M"|"1983-09-10"|""|"02123442413"|""|"Guarenas, Miranda, Venezuela"|1
+216496032|"LEIDI"|"DIQUEZ"|"F"|"1985-04-13"|"04168128888"|""|""|"Guarenas, Miranda, Venezuela"|1
+216543123|"MIGUELP"|"AMBROSIOP"|"M"|"1993-09-20"|"04124343434"|"02123434343"|"miguelmiguel19@gmail.com"|"Caricuao, Caracas, Caracas Metropolitan District, Venezuela"|1
+216544096|"MAYERLINS"|"RONDON"|"F"|"1984-02-20"|"04142811426"|""|""|"Guarenas, Miranda, Venezuela"|1
+216544101|"SONIA"|"CABERA"|"M"|"1982-03-12"|"04261101637"|""|""|"Guarenas, Miranda, Venezuela"|1
+216871482|"LEIDI"|"YANEZ"|"M"|"1982-10-05"|"04120220798"|""|""|"Cúa, Miranda, Venezuela"|1
+216946205|"INES"|"SUTIL"|"F"|"1982-04-24"|"04243403689"|""|""|"Guarenas, Miranda, Venezuela"|1
+217062903|"JOCKSIBETH"|"INOZOA"|"F"|"2009-07-31"|"04125651809"|""|""|"Guarenas, Miranda, Venezuela"|1
+217118058|"YULIANA"|"PEREZ"|"F"|"1984-07-21"|"04141029305"|""|""|"Guarenas, Miranda, Venezuela"|1
+217120071|"EDITH"|"ESPEJO"|"F"|"1981-08-18"|"04142842383"|""|""|"Guarenas, Miranda, Venezuela"|1
+217120078|"LISBELLO"|"INOZOA"|"F"|"1983-09-13"|""|"02123630158"|""|""|1
+217303241|"PATRICIA"|"HERRERA"|"F"|"1980-11-17"|"04160140147"|""|""|"Cúa, Miranda, Venezuela"|1
+217366665|"NOLBERIS"|"FRANCO"|"F"|"1986-07-15"|"04144478998"|""|""|"Guarenas, Miranda, Venezuela"|1
+217386037|"JUAN "|"GUERRERO"|"M"|"1977-01-15"|"04121199952"|""|""|"Guarenas, Miranda, Venezuela"|1
+217651050|"ULISES"|"RENGIFO"|"M"|"2009-06-04"|"04169341782"|""|""|"Guarenas, Miranda, Venezuela"|1
+217685703|"DANNY"|"HERNANDEZ"|"F"|"1983-12-29"|""|"02392241240"|""|"Santa Bárbara, Ocumare del Tuy, Venezuela"|1
+217704131|"CAROLINA"|"DUARTE"|"F"|"1984-07-17"|"04140108853"|""|""|"Cúa, Miranda, Venezuela"|1
+217793010|"MARY"|"ALVAREZ"|"F"|"1982-05-24"|"04268949087"|""|""|"Guarenas, Miranda, Venezuela"|1
+217922757|"CARLO"|"BALDA"|"M"|"1988-02-10"|"04145550000"|"02125550000"|"papabalda@gmail.com"|"Charallave, Miranda, Venezuela"|1
+217955052|"MAGLIS"|"MALAVE"|"F"|"1984-02-21"|"04141421536"|""|""|"Guarenas, Miranda, Venezuela"|1
+217980923|"MARIA GRABIELA"|"GUERRA"|"F"|"1988-04-10"|"04169365412"|""|""|"Santa lucia, Calle 18, Yaritagua, Yaracuy, Venezuela"|1
+218001864|"YUSMARY"|"PRIETO"|"F"|"1986-09-17"|"04241116049"|""|""|"cua posigue"|1
+218002448|"EDWARLYN"|"BENCOMO"|"F"|"1987-12-22"|"04123130370"|"02122567892"|"edwarlynbencomo@gmail.com"|"Caracas"|1
+218031273|"JHORLIZ  ISABELA"|"GUZMAN CORREAS"|"F"|"1987-04-08"|"04126366176"|""|""|"Chupulun, Charallave, Miranda, Venezuela"|1
+218172623|"LEYDA"|"ACEVEDO"|"F"|"1990-10-02"|"04242317018"|""|""|"Guarenas, Miranda, Venezuela"|1
+218187253|"ASALIZ"|"MORENO"|"F"|"1988-12-23"|"04162139830"|""|""|"Guarenas, Miranda, Venezuela"|1
+218271321|"DANIELA CAROLINA "|"BARRIOS MANRRIQUE"|"F"|"1989-01-14"|"04241517567"|"02392460138"|""|""|1
+218363034|"LUIS"|"RODRIGUEZ"|"M"|"1986-08-26"|"04123765906"|""|""|"Guarenas, Miranda, Venezuela"|1
+218403791|"WENDY"|"GONZALEZ"|"F"|"1987-03-08"|"04143180581"|""|""|"Guarenas, Miranda, Venezuela"|1
+218541991|"RUTH DEL CARMEN"|"CENTENO"|"F"|"1987-09-27"|"04142247792"|""|""|"Pinto Salinas, Cúa, Miranda, Venezuela"|1
+218557221|"GLORIA"|"ALIENDRE"|"F"|"1987-10-21"|"04160109023"|""|""|""|1
+218557264|"LUISA "|"ARANGURE"|"F"|"1989-06-19"|"04125593941"|""|""|"Guarenas, Miranda, Venezuela"|1
+218817487|"DANIEL"|"IBARRA"|"M"|"1947-04-05"|"04169006170"|""|""|""|1
+218841823|"GLEVIS "|"MARTINEZ"|"F"|"1994-07-10"|"04165189413"|"02393655771"|""|"araguita 1, Ocumare del Tuy, Miranda, Venezuela"|1
+218842106|"MIGUEL"|"VELAZQUEZ"|"M"|"1982-09-27"|"04241014689"|""|""|"Cúa, Miranda, Venezuela"|1
+218955402|"ENLIBETH"|"MOTA"|"F"|"1987-07-04"|"04263113277"|""|""|""|1
+219020287|"BEATRIZ"|"OSORIO"|"F"|"1972-09-08"|"04162074576"|""|""|"Guarenas, Miranda, Venezuela"|1
+219133645|"BELKIS"|"CARDENAS"|"F"|"1987-11-30"|""|"02123634656"|""|"Guarenas, Miranda, Venezuela"|1
+219154845|"JESSY"|"SERRANO"|"F"|"1987-08-23"|"04242608320"|""|""|"Guarenas, Miranda, Venezuela"|1
+219154986|"SANTIAGO"|"HERNANDEZ"|"M"|"2013-08-06"|"04262134543"|""|""|"Guarenas, Miranda, Venezuela"|1
+219258425|"ELIANNI"|"NARVAEZ"|"F"|"2012-10-17"|"04164255840"|""|""|"Guarenas, Miranda, Venezuela"|1
+219266724|"YOISEMI"|"MARTINEZ"|"F"|"1989-04-14"|""|""|""|"Sabaneta, Barinas, Venezuela"|1
+219362097|"LISMAR"|"LA CRUZ"|"F"|"1984-08-15"|"04261160633"|""|""|"Guarenas, Miranda, Venezuela"|1
+219373483|"JENNIFER DAYANA"|"CHAPARRO VELASQUEZ"|"F"|"1988-08-16"|"04141359825"|""|""|"Cúa, Miranda, Venezuela"|1
+219486808|"MARY"|"RODRIGUEZ"|"M"|"1953-03-27"|"04142483346"|""|""|"Guarenas, Miranda, Venezuela"|1
+219497594|"DIANA"|"RIVERO"|"F"|"1986-09-15"|"04165265457"|""|""|"Guarenas, Miranda, Venezuela"|1
+219553427|"OTONIEL"|"IZQUIERDO"|"M"|"1994-08-21"|"04163217586"|""|""|"Guarenas, Miranda, Venezuela"|1
+219575923|"GLORIA"|"BELTRAN"|"F"|"1946-09-23"|"04242110395"|""|""|"Guarenas, Miranda, Venezuela"|1
+219633378|"MARIANNY"|"MOJICA"|"F"|"1989-09-21"|"04141744947"|""|""|"Guarenas, Miranda, Venezuela"|1
+219685844|"MARINYELIS NAZARETH"|"FARIAS MIJARE"|"M"|"1989-07-15"|"04264137225"|"02392252404"|"mayefaria150789@hotmail.com"|"Calle El Rodeo, Ocumare del Tuy, Miranda, Venezuela"|1
+219808226|"SCARLA EKAREL "|"GARCIA SANCHEZ"|"F"|"1988-11-28"|"04261887507"|"02124351592"|"scarlagar@hotmail.com"|"Guarenas, Miranda, Venezuela"|1
+219998083|"GRESMAR"|"GONZALEZ"|"F"|"1991-04-21"|"04241054811"|""|""|"Guarenas, Miranda, Venezuela"|1
+220034801|"DAYERLIN"|"MECIA"|"F"|"1993-10-22"|"04241092590"|""|""|"Guarenas, Miranda, Venezuela"|1
+220211538|"LUZ"|"MORENO"|"F"|"1992-01-22"|"04168360832"|""|""|"Guarenas, Miranda, Venezuela"|1
+220309809|"CRISMARI"|"CASTRO"|"F"|"1990-01-23"|"04128272700"|""|""|"urb. poncigue, cua."|1
+220492517|"NINIBETH"|"RONDON"|"F"|"1990-03-10"|"04260217908"|""|""|"Guarenas, Miranda, Venezuela"|1
+220554683|"JOSE "|"RAMIREZ"|"M"|"1994-04-06"|""|"02394562588"|""|"Calle Bolivar, Cúa, Miranda, Venezuela"|1
+220595250|"DALEIKA "|"MANRIQUE"|"F"|"1990-11-26"|"04269012780"|""|""|"Guarenas, Miranda, Venezuela"|1
+220605072|"GERALDINE"|"CAMPOS"|"F"|"1994-08-15"|"04143224835"|""|""|"Guarenas, Miranda, Venezuela"|1
+220651746|"ROSANA"|"BETANCOURT"|"F"|"1990-11-13"|"04264112284"|""|""|"Guarenas, Miranda, Venezuela"|1
+220777421|"ROSAINY "|"CASTILLO"|"F"|"1993-06-23"|"04264061183"|""|""|"Guarenas, Miranda, Venezuela"|1
+220791567|"SCARLET"|"GONZALEZ"|"F"|"1991-07-31"|"04125517149"|""|""|"Guarenas, Miranda, Venezuela"|1
+220820668|"HAMBART"|"BERROTERAN"|"F"|"2014-02-10"|"04267045819"|""|""|"Guarenas, Miranda, Venezuela"|1
+220820818|"YENIFER"|"MARTINEZ"|"F"|"1992-10-20"|"04167013276"|""|""|"Guarenas, Miranda, Venezuela"|1
+220821451|"ROSMARIS"|"ARMAS"|"F"|"1991-05-11"|""|"02123631270"|""|"Guarenas, Miranda, Venezuela"|1
+220826668|"KATHERINE"|"MARTINEZ"|"F"|"1990-03-27"|"04267045819"|""|""|"Guarenas, Miranda, Venezuela"|1
+221104436|"GENESIS"|"RODRIGUEZ"|"F"|"1990-04-08"|"04262153216"|""|"genesis@hotmail.com"|""|1
+221104895|"MAIRE"|"CRESPO"|"F"|"1994-02-26"|"04242740529"|""|""|"Guarenas, Miranda, Venezuela"|1
+221105787|"SOLANGE"|"SERRANO"|"F"|"1993-04-19"|"04269201558"|""|""|"Guarenas, Miranda, Venezuela"|1
+221106252|"GIRDIBETH"|"NIEVES"|"F"|"1991-07-02"|"04165374405"|""|""|"Guarenas, Miranda, Venezuela"|1
+221149161|"ELVIRA"|"SAUZO"|"M"|"1994-09-17"|""|"02392128810"|""|"Cúa, Miranda, Venezuela"|1
+221284949|"OSMELY"|"VALERA"|"F"|"1993-10-17"|"04166109848"|""|""|"Guarenas, Miranda, Venezuela"|1
+221560167|"ISAURA"|"RONDON"|"F"|"1945-07-31"|"04143845789"|""|""|"Guarenas, Miranda, Venezuela"|1
+221601813|"ROGELIO"|"ZERPA"|"M"|"1924-03-04"|"04166093445"|""|""|"Guarenas, Miranda, Venezuela"|1
+222044378|"ROSELINA"|"LIMA"|"F"|"1994-04-29"|"04163547217"|""|""|"Guarenas, Miranda, Venezuela"|1
+222044569|"DEYANIRA"|"RAMIREZ"|"F"|"1992-11-03"|"04164273874"|""|""|"Guarenas, Miranda, Venezuela"|1
+222046316|"YULEIDA"|"YANEZ"|"F"|"1990-02-15"|"04168153048"|""|""|"Guarenas, Miranda, Venezuela"|1
+222046317|"YULEIKA "|"YANEZ"|"F"|"1992-05-15"|"04168153048"|""|""|"Guarenas, Miranda, Venezuela"|1
+222230245|"EULALIA"|"GARCIA"|"F"|"1991-08-04"|"04269079670"|""|""|""|1
+222230249|"LEONARDO"|"GARCIA"|"M"|"2013-09-07"|""|"02123639076"|""|"Guarenas, Miranda, Venezuela"|1
+222352574|"ROSMIRA"|"MARCIALES"|"F"|"1965-05-12"|""|"02392252385"|""|"Ocumare del Tuy, Miranda, Venezuela"|1
+222355090|"KATHERINE"|"AVILA"|"F"|"1993-10-29"|"0424177817"|""|""|"Cúa, Miranda, Venezuela"|1
+222380401|"MARINA"|"QUIJANO"|"F"|"1946-10-07"|""|"02123621240"|""|"Guarenas, Miranda, Venezuela"|1
+222380901|"MARINA"|"QUIJANO"|"F"|"1946-10-17"|"04162036294"|""|""|"Guarenas, Miranda, Venezuela"|1
+222380940|"SAULIMAR"|"ALVARADO"|"F"|"1993-01-17"|"04241809596"|""|""|"Guarenas, Miranda, Venezuela"|1
+222381631|"FRANCHESCA"|"LAEL"|"M"|"1914-05-18"|"04142121026"|""|""|"Guarenas, Miranda, Venezuela"|1
+222547105|"LIDIA"|"HERNANDEZ"|"F"|"1950-10-16"|"04162160962"|""|""|"Cúa, Miranda, Venezuela"|1
+222646347|"ZULEIKA"|"YANEZ"|"F"|"1991-10-17"|"04129624033"|""|""|"Guarenas, Miranda, Venezuela"|1
+222667974|"GUADALUPE"|"URBINA"|"F"|"1939-12-12"|"04262154915"|""|""|"Cúa, Miranda, Venezuela"|1
+222735222|"VANESSA"|"PACHECO"|"F"|"1988-03-12"|"04169144150"|""|""|"Guarenas, Miranda, Venezuela"|1
+222770658|"EGLIMAR"|"DIAZ"|"F"|"1993-11-16"|"04120226448"|""|""|"Cúa, Miranda, Venezuela"|1
+222774277|"LIZMAR"|"MEDINA"|"F"|"1994-05-22"|"04264092753"|""|""|"Guarenas, Miranda, Venezuela"|1
+222778928|"HECTOR"|"DUARTE"|"M"|"2011-11-10"|"04264387065"|""|""|"Salamanca, Cúa, Miranda, Venezuela"|1
+222780526|"GUILLERMO JOSE"|"CONTRERAS SANCHEZ"|"M"|"1993-01-12"|"04242631420"|"02124351592"|"guiconsan@gmail.com"|"Urbanización Terrazas del Este, Av. Principal Terrazas del Este, Guarenas, Miranda, Venezuela"|1
+223000132|"CARLOS LUIS "|"URBINA"|"M"|"1951-04-04"|"04168034304"|""|""|"Av. Principal, Cúa, Miranda, Venezuela"|1
+223067383|"LUZ"|"VIAFARA"|"F"|"1950-07-22"|""|"02124903809"|""|"Guarenas, Miranda, Venezuela"|1
+223067514|"JUAN"|"GUERRERO"|"M"|"1950-08-20"|""|"02124903723"|""|"Guarenas, Miranda, Venezuela"|1
+223084344|"SOFIA"|"MONZON"|"F"|"1989-06-12"|"04163612211"|""|""|"Guarenas, Miranda, Venezuela"|1
+223194126|"CARMEN"|"EFROS"|"F"|"1943-04-28"|"04146785381"|""|""|""|1
+223221937|"ELSY"|"HERRERA"|"F"|"1954-09-03"|"04120304862"|""|""|"cuajarito, charallave."|1
+223221938|"FREDY"|"HERRERA"|"M"|"1950-06-02"|"04120304862"|""|""|"caujarito, charallave edo. miranda"|1
+223434030|"MIRIAM ROSA"|"DE LA HOZ RUA"|"F"|"1953-04-29"|"04241856023"|""|""|"Quebrada de Cúa, Cúa, Miranda, Venezuela"|1
+223434043|"BALDOMERO"|"ROJAS"|"M"|"1972-01-24"|"04143664696"|""|""|"Charallave, Miranda, Venezuela"|1
+223434911|"TERESA"|"ESCAMILLA"|"F"|"1932-12-21"|"04241337075"|""|""|"Cúa, Miranda, Venezuela"|1
+223609081|"ARANZA"|"RAMIREZ"|"F"|"2010-02-20"|""|"02392464553"|""|"Cúa, Miranda, Venezuela"|1
+223609488|"LUISANA"|"MARTINEZ"|"F"|"1989-12-23"|"04241187003"|""|""|"Cúa, Miranda, Venezuela"|1
+223611430|"DAYERLIN"|"MECIA"|"F"|"1995-12-10"|"04242846278"|""|""|""|1
+223614564|"ARACELI"|"BELLO"|"F"|"1949-08-04"|"04141973723"|""|""|"Cúa, Miranda, Venezuela"|1
+223624141|"GABRIELA"|"BELLO"|"F"|"1995-07-30"|"04169184050"|""|""|"Guarenas, Miranda, Venezuela"|1
+223624613|"YISMARY"|"MATALLANA"|"F"|"1995-02-20"|"04263363992"|""|""|"Guarenas, Miranda, Venezuela"|1
+223654870|"JAIRO"|"ARROYO"|"M"|"1945-08-13"|""|"02125167845"|""|"Guarenas, Miranda, Venezuela"|1
+223667383|"LUZNIELBA"|"VILFARIA"|"F"|"1950-07-22"|""|"02124903809"|""|"Guarenas, Miranda, Venezuela"|1
+223682004|"LAUDITH  ELENA"|"CALVO"|"F"|"1955-06-26"|"04263124125"|"04162086901"|""|"Santa Barbara, Cúa, Miranda, Venezuela"|1
+223712627|"ELVIRA"|"SANCHEZ"|"F"|"1947-11-25"|"04165356977"|""|""|"Guarenas, Miranda, Venezuela"|1
+224057727|"YOELYS"|"GONZALES"|"F"|"1994-06-21"|"04269087663"|""|""|"Cúa, Miranda, Venezuela"|1
+224074014|"SAMUEL"|"ANGELO"|"M"|"1991-10-16"|"04168990732"|""|""|"Guarenas, Miranda, Venezuela"|1
+224101217|"GENESIS MARIELA"|"TORRES OLIVO"|"M"|"1995-05-11"|"04126313531"|""|""|"Pinto Salinas, Cúa, Miranda, Venezuela"|1
+224238810|"KINKERLEY"|"INOZOA"|"F"|"1993-04-20"|""|"02123630158"|""|""|1
+224272352|"LUCY"|"NIEBLES"|"F"|"1956-04-22"|"04143346681"|""|""|"Guarenas, Miranda, Venezuela"|1
+224272360|"ZORANGELES"|"DIAZ"|"F"|"1996-05-05"|"04169054747"|""|""|"Guarenas, Miranda, Venezuela"|1
+224335845|"YUSMARY"|"VALLEJO"|"F"|"1996-04-09"|"04261379929"|""|""|"Guarenas, Miranda, Venezuela"|1
+224336162|"GERALDINE"|"RAMIREZ"|"F"|"1994-08-25"|"04263056091"|""|""|""|1
+224439142|"LISNEIRY"|"JULIO"|"F"|"2012-11-03"|"04168029256"|""|"lisnery@hotmail."|""|1
+224762641|"MARIA"|"CORTEZ"|"F"|"1995-05-15"|""|"02126821542"|""|"Guarenas, Miranda, Venezuela"|1
+224864972|"ZORAIDA JOSEFINA "|"MILANO CARVAJAL"|"F"|"1995-04-20"|"04142125002"|""|""|"Calle El Carmen, Cúa, Miranda, Venezuela"|1
+225043182|"DORIS"|"DIAZ"|"M"|"1986-12-11"|""|"02123413695"|""|"Guarenas, Miranda, Venezuela"|1
+225053368|"MAGALI"|"MEJIAS"|"F"|"1961-09-25"|"04269807792"|""|""|"San Antonio de Cúa, Urdaneta, Miranda, Venezuela"|1
+225171203|"VANESSA"|"PACHECO"|"M"|"1982-03-12"|"04162035689"|""|""|"Guarenas, Miranda, Venezuela"|1
+225234880|"MARIA"|"TORRES"|"F"|"1996-06-09"|"04267151634"|""|""|"Guarenas, Miranda, Venezuela"|1
+225269562|"EUDALIS"|"SALAZAR"|"F"|"1994-02-17"|"04168087242"|""|""|"Guarenas, Miranda, Venezuela"|1
+225304474|"DIANA"|"LARA"|"F"|"1996-08-12"|"04126242269"|""|""|"Guarenas, Miranda, Venezuela"|1
+225325108|"ANABELLA"|"BARRIOS"|"F"|"1951-11-29"|"04162471214"|""|""|"Guarenas, Miranda, Venezuela"|1
+225565868|"MARIA "|"ROMERO"|"F"|"1950-09-03"|""|"02126895465"|""|"Guarenas, Miranda, Venezuela"|1
+225689378|"ALBA"|"LUGANO"|"F"|"1997-08-14"|""|"02392126074"|""|"Cúa, Miranda, Venezuela"|1
+225742832|"ROSA"|"BRAVO"|"F"|"1969-08-04"|"04143412213"|""|""|"Guarenas, Miranda, Venezuela"|1
+225787847|"ANDRIS"|"MAYO"|"M"|"1996-05-01"|"04169201701"|""|""|"Guarenas, Miranda, Venezuela"|1
+226034103|"GABRIELA"|"RIOS"|"M"|"1994-08-15"|"04167131531"|""|""|"Guarenas, Miranda, Venezuela"|1
+226044736|"FRENCLAIRE"|"RODRIGUEZ"|"F"|"1996-12-22"|""|"02399927828"|""|"Santa Teresa del Tuy, Miranda, Venezuela"|1
+226078050|"YURUBI"|"QUINTERO"|"F"|"1997-07-05"|"04268165187"|""|""|"cua edo miranda"|1
+226331081|"WINDY "|"CALANCHE"|"F"|"1997-12-20"|"04168251860"|""|""|""|1
+226386677|"JOHANDRY"|"HERNANDEZ"|"F"|"1999-03-05"|""|"02123612494"|""|"Guarenas, Miranda, Venezuela"|1
+226431212|"MARIA"|"PEREZ"|"M"|"1990-05-15"|"04162213645"|""|""|"Guarenas, Miranda, Venezuela"|1
+226573806|"DUBISAY"|"BAUTISTA"|"F"|"1999-02-10"|"04144920771"|""|""|"Guarenas, Miranda, Venezuela"|1
+227111081|"LESKANY"|"GONZALEZ"|"M"|"1999-08-16"|"04263145614"|""|""|"Guarenas, Miranda, Venezuela"|1
+227156213|"ZULEIMA"|"YANEZ"|"F"|"1999-09-09"|""|"02123624562"|""|"Guarenas, Miranda, Venezuela"|1
+227588602|"ANA GABRIELA "|"CONTRERAS SANCHEZ"|"F"|"1998-10-28"|"04160745514"|"02124351592"|"gabriela98xd@hotmail.con"|"Guarenas, Miranda, Venezuela"|1
+227735222|"VANESSA "|"PACHECO"|"F"|"1988-03-12"|"04169144150"|""|""|"Guarenas, Miranda, Venezuela"|1
+228014964|"KATERINE"|"CAMARGO"|"F"|"2000-01-19"|"04262115855"|"02123653235"|""|"Guarenas, Miranda, Venezuela"|1
+228314248|"SAMUEL"|"BERMUDEZ"|"M"|"2001-05-02"|""|"04142225977"|""|"Guarenas, Miranda, Venezuela"|1
+229584428|"LEO"|"GIRALDO"|"M"|"1980-01-23"|"04169070638"|""|""|"Guarenas, Miranda, Venezuela"|1
+230085081|"MIGUEL ANGEL"|"PEREZ TOVAR"|"M"|"2003-02-20"|"04263068244"|""|""|"Guarenas, Miranda, Venezuela"|1
+230597946|"ARELIS"|"SANDOVAL"|"F"|"1997-08-02"|"04169564596"|""|""|"Guarenas, Miranda, Venezuela"|1
+230723129|"YESICA"|"CORDERO"|"F"|"1999-08-28"|"02123565263"|""|""|"Guarenas, Miranda, Venezuela"|1
+232642790|"DORIS"|"DIAZ"|"F"|"1946-11-27"|""|"02122149369"|""|""|1
+238371146|"AURA"|"YANEZ"|"F"|"1950-03-18"|"04164125978"|""|""|""|1
+244675655|"COLUMBA"|"VILLEGAS"|"M"|"1946-06-28"|"04144064618"|""|""|"Guarenas, Miranda, Venezuela"|1
+269218665|"EUSTOQUIO"|"TORO"|"M"|"1957-11-02"|"04144523915"|""|""|"Ocumare del Tuy, Miranda, Venezuela"|1
+281102020|"ELBA"|"MARRUGO"|"F"|"1954-05-21"|""|"02128869905"|""|"Guarenas, Miranda, Venezuela"|1
+281383044|"EMILIO"|"MONTERO"|"M"|"1950-10-27"|""|"02124723818"|""|"Guarenas, Miranda, Venezuela"|1
+281412014|"SANTIAGO"|"OROPEZA"|"M"|"2014-04-08"|"04241813678"|""|""|"Guarenas, Miranda, Venezuela"|1
+281617727|"ADELA"|"BLANCO"|"F"|"1955-12-16"|"04129507021"|"02123106067"|""|"Guarenas, Miranda, Venezuela"|1
+281630321|"MIGUEL"|"RESTREPO"|"M"|"1951-11-16"|""|"02123248345"|""|"Guarenas, Miranda, Venezuela"|1
+281673096|"MILDRED"|"MELENO"|"F"|"1967-02-20"|"04164294965"|""|""|"Guarenas, Miranda, Venezuela"|1
+281694575|"JOSE"|"NORIEGA"|"M"|"1943-08-24"|"04169358939"|""|""|"Guarenas, Miranda, Venezuela"|1
+282135806|"PERLIS"|"AYOLA"|"F"|"1964-05-01"|"04263174342"|""|""|"Guarenas, Miranda, Venezuela"|1
+282177209|"SANDRA "|"MARTINEZ"|"F"|"1969-09-05"|"04169285683"|""|""|"Guarenas, Miranda, Venezuela"|1
+283560261|"GLEVIS"|"MORENO"|"F"|"1974-09-20"|"04264009792"|""|""|"Guarenas, Miranda, Venezuela"|1
+284560592|"JUANA"|"CURRY"|"F"|"1958-12-08"|"04162071078"|""|""|"Guarenas, Miranda, Venezuela"|1
+284565145|"JOSEPH"|"MOLINA"|"M"|"1955-09-09"|"04129001341"|""|""|"Guarenas, Miranda, Venezuela"|1
+2106095750|"YONIS"|"MARTINEZ"|"M"|"1971-05-31"|"04142019060"|""|""|""|1
+2106936611|"MIRIAN "|"MARTINEZ"|"F"|"1960-01-15"|"04141543779"|""|""|"Guarenas, Miranda, Venezuela"|1
+2435234768|"JOSE"|"DA SILVA"|"M"|"1955-10-27"|""|"02123442603"|""|"Guarenas, Miranda, Venezuela"|1
+2435436453|"PRUEBA2"|"PRUÉBA"|"M"|"1993-10-23"|"04123453453"|"02125345345"|"narbelys@gmail.com"|"Colinas de Bello Monte, Miranda, Venezuela"|1
+2811745044|"PEDRO"|"UTRERA"|"M"|"1947-09-17"|"04125762122"|""|""|"Guarenas, Miranda, Venezuela"|1
